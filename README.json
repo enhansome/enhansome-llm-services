@@ -301,7 +301,7 @@
       "title": "Cognee"
     },
     {
-      "description": "61% 72.1k issues 1.2k (311 open, 931 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
+      "description": "61% 72.0k issues 1.2k (312 open, 932 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
       "items": [],
       "title": "Daytona"
     },
@@ -776,7 +776,7 @@
       "title": "Cognee"
     },
     {
-      "description": "61% 72.1k issues 1.2k (311 open, 931 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
+      "description": "61% 72.0k issues 1.2k (312 open, 932 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
       "items": [],
       "title": "Daytona"
     },
@@ -1172,9 +1172,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:11:18.052Z",
+    "last_updated": "2026-08-14T14:04:54.191Z",
     "original_repository": "av/awesome-llm-services",
-    "original_repository_sha": "97cae9d5d800122e4e5e1a3897130042e6d0deaf",
+    "original_repository_sha": "704b353b7debfe1200edde97feedfd4336f0b455",
     "enhanced_repository": "enhansome/enhansome-llm-services",
     "enhanced_repository_description": null,
     "title": "Awesome llm services with stars"
