@@ -6,27 +6,27 @@
       "title": "Frontends"
     },
     {
-      "description": "84% 64.5k issues 3.7k (296 open, 3.4k closed) 2026-08-06 The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+      "description": "84% 64.8k issues 3.7k (299 open, 3.4k closed) 2026-08-13 The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
       "items": [],
       "title": "AnythingLLM"
     },
     {
-      "description": "82% 38.8k issues 6.4k (1.0k open, 5.4k closed) 2026-08-08 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
+      "description": "81% 39.3k issues 6.4k (1.0k open, 5.4k closed) 2026-08-15 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
       "items": [],
       "title": "AstrBot"
     },
     {
-      "description": "58% 2.3k issues 406 (0 open, 406 closed) 2026-08-03 on-premise LLM web UI with support for OpenAI-compatible backends",
+      "description": "54% 2.4k issues 406 (0 open, 406 closed) 2026-08-03 on-premise LLM web UI with support for OpenAI-compatible backends",
       "items": [],
       "title": "BionicGPT"
     },
     {
-      "description": "22% 9.3k issues 307 (24 open, 283 closed) 2026-03-12 Comprehensive LLM web interface with built-in marketplace",
+      "description": "21% 9.3k issues 307 (24 open, 283 closed) 2026-03-12 Comprehensive LLM web interface with built-in marketplace",
       "items": [],
       "title": "Chat Nio"
     },
     {
-      "description": "91% 125.0k issues 9.0k (4.0k open, 5.0k closed) 2026-08-09 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "description": "91% 128.0k issues 9.1k (4.1k open, 5.0k closed) 2026-08-17 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "items": [],
       "title": "ComfyUI"
     },
@@ -36,22 +36,22 @@
       "title": "Hollama"
     },
     {
-      "description": "71% 10.9k issues 740 (182 open, 558 closed) 2026-08-06 A chat interface using open source models, eg OpenAssistant or Llama. It is a SvelteKit app and it powers the HuggingChat app on hf.co/chat.",
+      "description": "71% 10.9k issues 743 (185 open, 558 closed) 2026-08-15 A chat interface using open source models, eg OpenAssistant or Llama. It is a SvelteKit app and it powers the HuggingChat app on hf.co/chat.",
       "items": [],
       "title": "HuggingFace ChatUI"
     },
     {
-      "description": "69% 11.4k issues 1.5k (493 open, 1.0k closed) 2026-08-02 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+      "description": "72% 11.4k issues 1.5k (493 open, 1.0k closed) 2026-08-15 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
       "items": [],
       "title": "KoboldCpp"
     },
     {
-      "description": "81% 41.8k issues 4.8k (350 open, 4.5k closed) 2026-08-06 Open-source ChatGPT UI alternative supporting multiple AI providers (Anthropic, AWS, OpenAI, Azure, Groq, Mistral, Google) with features like model switching, message search, and multi-user support. Includes integration with DALL-E-3 and various APIs.",
+      "description": "83% 42.1k issues 4.9k (356 open, 4.5k closed) 2026-08-17 Open-source ChatGPT UI alternative supporting multiple AI providers (Anthropic, AWS, OpenAI, Azure, Groq, Mistral, Google) with features like model switching, message search, and multi-user support. Includes integration with DALL-E-3 and various APIs.",
       "items": [],
       "title": "LibreChat"
     },
     {
-      "description": "88% 81.4k issues 6.3k (254 open, 6.1k closed) 2026-08-09 An open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek / MiniMax), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system.",
+      "description": "88% 81.8k issues 6.4k (295 open, 6.1k closed) 2026-08-17 An open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek / MiniMax), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system.",
       "items": [],
       "title": "Lobe Chat"
     },
@@ -61,7 +61,7 @@
       "title": "Mikupad"
     },
     {
-      "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-02 A simple Gradio app implementing an o1-like chain of reasoning with Ollama.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 A simple Gradio app implementing an o1-like chain of reasoning with Ollama.",
       "items": [],
       "title": "ol1"
     },
@@ -71,32 +71,32 @@
       "title": "Omnichain"
     },
     {
-      "description": "79% 31.5k issues 1.3k (99 open, 1.2k closed) 2026-08-07 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
+      "description": "79% 31.6k issues 1.3k (107 open, 1.2k closed) 2026-08-14 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
       "items": [],
       "title": "Onyx"
     },
     {
-      "description": "84% 148.3k issues 9.3k (304 open, 9.0k closed) 2026-07-27 widely adopted and feature rich web interface for interacting with LLMs. Supports OpenAI-compatible and Ollama backends, multi-users, multi-model chats, custom prompts, TTS, Web RAG, RAG, and much much more.",
+      "description": "79% 149.0k issues 9.4k (217 open, 9.2k closed) 2026-07-27 widely adopted and feature rich web interface for interacting with LLMs. Supports OpenAI-compatible and Ollama backends, multi-users, multi-model chats, custom prompts, TTS, Web RAG, RAG, and much much more.",
       "items": [],
       "title": "Open WebUI"
     },
     {
-      "description": "59% 2.4k issues 156 (4 open, 152 closed) 2026-08-06 The text-based terminal client for Ollama.",
+      "description": "56% 2.4k issues 156 (4 open, 152 closed) 2026-08-06 The text-based terminal client for Ollama.",
       "items": [],
       "title": "oterm"
     },
     {
-      "description": "38% 484 issues 40 (3 open, 37 closed) 2026-07-11 TUI for Ollama",
+      "description": "36% 485 issues 40 (3 open, 37 closed) 2026-07-11 TUI for Ollama",
       "items": [],
       "title": "Parllama"
     },
     {
-      "description": "63% 31.8k issues 2.6k (417 open, 2.2k closed) 2026-07-07 Feature-rich LLM chat frontend for power users. Supports multiple AI backends, personas, advanced prompting, and extensions.",
+      "description": "59% 32.2k issues 2.7k (424 open, 2.2k closed) 2026-07-07 Feature-rich LLM chat frontend for power users. Supports multiple AI backends, personas, advanced prompting, and extensions.",
       "items": [],
       "title": "SillyTavern"
     },
     {
-      "description": "76% 49.8k issues 668 (478 open, 190 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
+      "description": "72% 50.6k issues 682 (491 open, 191 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
       "items": [],
       "title": "Voicebox"
     },
@@ -106,12 +106,12 @@
       "title": "Backends"
     },
     {
-      "description": "80% 30.2k issues 243 (98 open, 145 closed) 2026-08-08 70B inference with single 4GB GPU (very slow, though)",
+      "description": "80% 31.4k issues 246 (101 open, 145 closed) 2026-08-16 70B inference with single 4GB GPU (very slow, though)",
       "items": [],
       "title": "AirLLM"
     },
     {
-      "description": "56% 1.8k issues 250 (79 open, 171 closed) 2026-08-04 Large-scale LLM inference engine",
+      "description": "57% 1.8k issues 250 (79 open, 171 closed) 2026-08-13 Large-scale LLM inference engine",
       "items": [],
       "title": "Aphrodite"
     },
@@ -121,72 +121,72 @@
       "title": "Docker Model Runner"
     },
     {
-      "description": "27% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
+      "description": "25% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
       "items": [],
       "title": "faster-whisper-server"
     },
     {
-      "description": "62% 3.0k issues 589 (54 open, 535 closed) 2026-08-08 llama.cpp fork with additional quantization formats and CPU/CUDA performance improvements.",
+      "description": "61% 3.0k issues 605 (57 open, 548 closed) 2026-08-15 llama.cpp fork with additional quantization formats and CPU/CUDA performance improvements.",
       "items": [],
       "title": "ik_llama.cpp"
     },
     {
-      "description": "69% 11.4k issues 1.5k (493 open, 1.0k closed) 2026-08-02 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+      "description": "72% 11.4k issues 1.5k (493 open, 1.0k closed) 2026-08-15 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
       "items": [],
       "title": "KoboldCpp"
     },
     {
-      "description": "76% 19.2k issues 1.3k (463 open, 833 closed) 2026-08-08 A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
+      "description": "77% 19.2k issues 1.3k (463 open, 833 closed) 2026-08-17 A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
       "items": [],
       "title": "KTransformers"
     },
     {
-      "description": "66% 5.3k issues 1.3k (356 open, 902 closed) 2026-08-08 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
+      "description": "67% 5.4k issues 1.3k (372 open, 956 closed) 2026-08-17 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
       "items": [],
       "title": "Lemonade"
     },
     {
-      "description": "90% 123.2k issues 9.3k (687 open, 8.7k closed) 2026-08-08 LLM inference in C/C++",
+      "description": "91% 124.3k issues 9.5k (752 open, 8.7k closed) 2026-08-17 LLM inference in C/C++",
       "items": [],
       "title": "llama.cpp"
     },
     {
-      "description": "64% 7.6k issues 709 (234 open, 475 closed) 2026-07-29 Blazingly fast LLM inference.",
+      "description": "69% 7.6k issues 711 (235 open, 476 closed) 2026-08-16 Blazingly fast LLM inference.",
       "items": [],
       "title": "mistral.rs"
     },
     {
-      "description": "66% 6.5k issues 546 (227 open, 319 closed) 2026-08-05 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
+      "description": "62% 6.7k issues 557 (238 open, 319 closed) 2026-08-05 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
       "items": [],
       "title": "MLX"
     },
     {
-      "description": "79% 26.7k issues 3.6k (799 open, 2.8k closed) 2026-08-08 MAX is a platform from Modular (creators of Mojo) for running LLMs.",
+      "description": "79% 26.8k issues 3.7k (793 open, 2.9k closed) 2026-08-16 MAX is a platform from Modular (creators of Mojo) for running LLMs.",
       "items": [],
       "title": "Modular MAX"
     },
     {
-      "description": "55% 3.4k issues 16 (13 open, 3 closed) 2026-07-22 Small function-calling model served through an OpenAI-compatible tool-calling API.",
+      "description": "68% 6.8k issues 34 (16 open, 18 closed) 2026-08-15 Small function-calling model served through an OpenAI-compatible tool-calling API.",
       "items": [],
       "title": "Needle"
     },
     {
-      "description": "69% 8.3k issues 339 (22 open, 317 closed) 2026-08-07 Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models.",
+      "description": "69% 8.3k issues 349 (28 open, 321 closed) 2026-08-14 Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models.",
       "items": [],
       "title": "Nexa SDK"
     },
     {
-      "description": "94% 178.1k issues 10.9k (2.4k open, 8.5k closed) 2026-08-09 Get up and running with Llama 3.2, Mistral, Gemma 3, and other large language models.",
+      "description": "93% 178.7k issues 11.0k (2.4k open, 8.6k closed) 2026-08-15 Get up and running with Llama 3.2, Mistral, Gemma 3, and other large language models.",
       "items": [],
       "title": "Ollama"
     },
     {
-      "description": "76% 18.5k issues 1.5k (667 open, 876 closed) 2026-08-08 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
+      "description": "77% 18.8k issues 1.6k (723 open, 897 closed) 2026-08-17 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
       "items": [],
       "title": "oMLX"
     },
     {
-      "description": "1% 859 issues 85 (7 open, 78 closed) 2025-02-02 An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.",
+      "description": "1% 858 issues 85 (7 open, 78 closed) 2025-02-02 An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.",
       "items": [],
       "title": "openedai-speech"
     },
@@ -196,32 +196,32 @@
       "title": "Parler"
     },
     {
-      "description": "81% 31.6k issues 6.9k (768 open, 6.1k closed) 2026-08-09 SGLang is a fast serving framework for large language models and vision language models.",
+      "description": "81% 31.9k issues 7.0k (784 open, 6.2k closed) 2026-08-17 SGLang is a fast serving framework for large language models and vision language models.",
       "items": [],
       "title": "SGLang"
     },
     {
-      "description": "27% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
+      "description": "25% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
       "items": [],
       "title": "Speaches"
     },
     {
-      "description": "74% 12.1k issues 163 (93 open, 70 closed) 2026-08-10 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
+      "description": "69% 12.1k issues 163 (93 open, 70 closed) 2026-08-10 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
       "items": [],
       "title": "Speech To Speech"
     },
     {
-      "description": "55% 1.3k issues 237 (12 open, 225 closed) 2026-08-08 An OAI compatible exllamav2 API that's both lightweight and fast",
+      "description": "54% 1.3k issues 237 (12 open, 225 closed) 2026-08-13 An OAI compatible exllamav2 API that's both lightweight and fast",
       "items": [],
       "title": "TabbyAPI"
     },
     {
-      "description": "24% 10.9k issues 1.6k (285 open, 1.3k closed) 2026-03-21 Inference engine from HuggingFace.",
+      "description": "23% 10.9k issues 1.6k (285 open, 1.3k closed) 2026-03-21 Inference engine from HuggingFace.",
       "items": [],
       "title": "Text Generation Inference"
     },
     {
-      "description": "89% 88.6k issues 17.1k (2.1k open, 15.0k closed) 2026-08-09 A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "description": "89% 89.2k issues 17.3k (2.1k open, 15.2k closed) 2026-08-17 A high-throughput and memory-efficient inference and serving engine for LLMs",
       "items": [],
       "title": "vLLM"
     },
@@ -231,197 +231,207 @@
       "title": "Satellites"
     },
     {
-      "description": "78% 23.6k issues 3.0k (370 open, 2.6k closed) 2026-08-08 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
+      "description": "78% 23.8k issues 3.0k (382 open, 2.7k closed) 2026-08-17 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
       "items": [],
       "title": "Activepieces"
     },
     {
-      "description": "72% 18.8k issues 821 (94 open, 727 closed) 2026-08-01 General-purpose personal assistant with Web RAG, persistent memory, tools, browser use and more.",
+      "description": "74% 18.9k issues 825 (81 open, 744 closed) 2026-08-12 General-purpose personal assistant with Web RAG, persistent memory, tools, browser use and more.",
       "items": [],
       "title": "Agent Zero"
     },
     {
-      "description": "20% 10.3k issues 660 (47 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
+      "description": "19% 10.4k issues 660 (47 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
       "items": [],
       "title": "aichat"
     },
     {
-      "description": "46% 48.1k issues 4.3k (1.3k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
+      "description": "43% 48.3k issues 4.4k (1.3k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
       "items": [],
       "title": "Aider"
     },
     {
-      "description": "41% 6.5k issues 114 (41 open, 73 closed) 2026-06-05 Airweave lets agents search any app by transforming its contents into agent-ready knowledge.",
+      "description": "39% 6.6k issues 114 (41 open, 73 closed) 2026-06-05 Airweave lets agents search any app by transforming its contents into agent-ready knowledge.",
       "items": [],
       "title": "Airweave"
     },
     {
-      "description": "82% 38.8k issues 6.4k (1.0k open, 5.4k closed) 2026-08-08 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
+      "description": "81% 39.3k issues 6.4k (1.0k open, 5.4k closed) 2026-08-15 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
       "items": [],
       "title": "AstrBot"
     },
     {
-      "description": "91% 186.4k issues 3.9k (300 open, 3.6k closed) 2026-08-05 Create, deploy, and manage continuous AI agents that automate complex workflows.",
+      "description": "94% 186.6k issues 3.9k (294 open, 3.6k closed) 2026-08-17 Create, deploy, and manage continuous AI agents that automate complex workflows.",
       "items": [],
       "title": "autogpt"
     },
     {
-      "description": "77% 24.1k issues 1.3k (272 open, 1.0k closed) 2026-08-06 Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "description": "78% 24.3k issues 1.3k (256 open, 1.0k closed) 2026-08-17 Lightweight server monitoring with historical data, docker stats, and alerts.",
       "items": [],
       "title": "Beszel"
     },
     {
-      "description": "68% 7.2k issues 1.1k (352 open, 732 closed) 2026-08-08 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
+      "description": "69% 7.4k issues 1.1k (389 open, 737 closed) 2026-08-17 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
       "items": [],
       "title": "Bifrost"
     },
     {
-      "description": "19% 19.7k issues 961 (78 open, 883 closed) 2026-02-07 Prompt, run, edit, and deploy full-stack web applications.",
+      "description": "18% 19.8k issues 960 (78 open, 882 closed) 2026-02-07 Prompt, run, edit, and deploy full-stack web applications.",
       "items": [],
       "title": "Bolt.new"
     },
     {
-      "description": "39% 16.3k issues 448 (272 open, 176 closed) 2026-05-15 AI-powered browser automation with web UI",
+      "description": "37% 16.3k issues 444 (272 open, 172 closed) 2026-05-15 AI-powered browser automation with web UI",
       "items": [],
       "title": "Browser Use"
     },
     {
-      "description": "74% 15.1k issues 1.3k (488 open, 850 closed) 2026-08-07 A helper service allowing to expose Harbor services over the internet.",
+      "description": "73% 15.3k issues 1.3k (484 open, 860 closed) 2026-08-14 A helper service allowing to expose Harbor services over the internet.",
       "items": [],
       "title": "cloudflared"
     },
     {
-      "description": "11% 133 issues 16 (9 open, 7 closed) 2026-02-25 Create Linux commands from natural language, in the shell.",
+      "description": "10% 133 issues 16 (9 open, 7 closed) 2026-02-25 Create Linux commands from natural language, in the shell.",
       "items": [],
       "title": "cmdh"
     },
     {
-      "description": "80% 29.9k issues 891 (148 open, 743 closed) 2026-08-08 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
+      "description": "80% 30.1k issues 903 (82 open, 821 closed) 2026-08-16 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
       "items": [],
       "title": "Cognee"
     },
     {
-      "description": "61% 72.0k issues 1.2k (312 open, 932 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
+      "description": "58% 72.0k issues 1.2k (312 open, 932 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
       "items": [],
       "title": "Daytona"
     },
     {
-      "description": "63% 3.3k issues 165 (1 open, 164 closed) 2026-08-08 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
+      "description": "62% 3.4k issues 166 (1 open, 165 closed) 2026-08-15 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
       "items": [],
       "title": "DBHub"
     },
     {
-      "description": "87% 79.6k issues 1.8k (596 open, 1.2k closed) 2026-08-08 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
+      "description": "88% 80.1k issues 1.9k (552 open, 1.3k closed) 2026-08-17 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
       "items": [],
       "title": "DeerFlow"
     },
     {
-      "description": "93% 151.8k issues 18.6k (270 open, 18.3k closed) 2026-08-09 An open-source LLM app development platform.",
+      "description": "93% 152.7k issues 18.6k (286 open, 18.3k closed) 2026-08-17 An open-source LLM app development platform.",
       "items": [],
       "title": "Dify"
     },
     {
-      "description": "85% 64.4k issues 1.9k (889 open, 1.1k closed) 2026-08-08 Transform documents into format ready for LLMs.",
+      "description": "84% 64.9k issues 2.0k (889 open, 1.1k closed) 2026-08-14 Transform documents into format ready for LLMs.",
       "items": [],
       "title": "Docling"
     },
     {
-      "description": "81% 34.4k issues 326 (137 open, 189 closed) 2026-08-08 AI-powered diagram creation tool - generate draw.io diagrams from natural language.",
+      "description": "77% 35.0k issues 331 (142 open, 189 closed) 2026-08-10 AI-powered diagram creation tool - generate draw.io diagrams from natural language.",
       "items": [],
       "title": "Drawio"
     },
     {
-      "description": "80% 43.4k issues 858 (29 open, 829 closed) 2026-08-04 LLM-driven processing of the text data in the terminal.",
+      "description": "75% 43.5k issues 859 (30 open, 829 closed) 2026-08-04 LLM-driven processing of the text data in the terminal.",
       "items": [],
       "title": "Fabric"
     },
     {
-      "description": "25% 198 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
+      "description": "23% 198 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
       "items": [],
       "title": "facts"
     },
     {
-      "description": "84% 55.3k issues 2.7k (700 open, 2.0k closed) 2026-08-07 Drag & drop UI to build your customized LLM flow.",
+      "description": "82% 55.4k issues 2.7k (701 open, 2.0k closed) 2026-08-13 Drag & drop UI to build your customized LLM flow.",
       "items": [],
       "title": "Flowise"
     },
     {
-      "description": "65% 4.4k issues 599 (4 open, 595 closed) 2026-08-08 A simple CLI tool to interact with LLMs.",
+      "description": "65% 4.4k issues 609 (5 open, 604 closed) 2026-08-16 A simple CLI tool to interact with LLMs.",
       "items": [],
       "title": "gptme"
     },
     {
-      "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-02 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
       "items": [],
       "title": "Harbor Bench"
     },
     {
-      "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-02 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
       "items": [],
       "title": "Harbor Boost"
     },
     {
-      "description": "96% 227.6k issues 20.3k (9.9k open, 10.4k closed) 2026-08-09 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Containerized Harbor CLI for running Harbor commands without a host install.",
+      "items": [],
+      "title": "Harbor CLI"
+    },
+    {
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Harbor's own landing page served locally.",
+      "items": [],
+      "title": "Harbor Landing"
+    },
+    {
+      "description": "96% 231.7k issues 22.0k (10.9k open, 11.1k closed) 2026-08-17 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
       "items": [],
       "title": "Hermes Agent"
     },
     {
-      "description": "88% 89.8k issues 72.8k (2.7k open, 70.2k closed) 2026-08-08 Open source home automation platform for managing and controlling smart home devices.",
+      "description": "89% 89.9k issues 73.2k (2.9k open, 70.3k closed) 2026-08-17 Open source home automation platform for managing and controlling smart home devices.",
       "items": [],
       "title": "Home Assistant"
     },
     {
-      "description": "74% 15.2k issues 9.3k (2.4k open, 6.9k closed) 2026-08-08 Helper service to author/run Jupyter notebooks in Python with access to Harbor services.",
+      "description": "74% 15.3k issues 9.3k (2.4k open, 6.9k closed) 2026-08-15 Helper service to author/run Jupyter notebooks in Python with access to Harbor services.",
       "items": [],
       "title": "JupyterLab"
     },
     {
-      "description": "77% 31.2k issues 2.7k (708 open, 1.9k closed) 2026-08-03 A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "description": "78% 31.3k issues 2.7k (703 open, 1.9k closed) 2026-08-13 A modern load testing tool, using Go and JavaScript - https://k6.io",
       "items": [],
       "title": "K6"
     },
     {
-      "description": "75% 28.2k issues 1.7k (597 open, 1.1k closed) 2026-08-02 Self-hosted bookmark manager with AI-powered automatic tagging via OpenAI or Ollama.",
+      "description": "79% 28.4k issues 1.7k (598 open, 1.1k closed) 2026-08-16 Self-hosted bookmark manager with AI-powered automatic tagging via OpenAI or Ollama.",
       "items": [],
       "title": "Karakeep"
     },
     {
-      "description": "77% 36.4k issues 603 (96 open, 507 closed) 2026-08-02 AI second brain for chat, search, and agents with your docs. Supports local and cloud LLMs.",
+      "description": "73% 36.5k issues 605 (98 open, 507 closed) 2026-08-02 AI second brain for chat, search, and agents with your docs. Supports local and cloud LLMs.",
       "items": [],
       "title": "Khoj"
     },
     {
-      "description": "69% 11.4k issues 1.5k (493 open, 1.0k closed) 2026-08-02 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+      "description": "72% 11.4k issues 1.5k (493 open, 1.0k closed) 2026-08-15 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
       "items": [],
       "title": "KoboldCpp"
     },
     {
-      "description": "46% 25.7k issues 472 (214 open, 258 closed) 2026-05-30 An open-source RAG-based tool for chatting with your documents.",
+      "description": "43% 25.7k issues 472 (214 open, 258 closed) 2026-05-30 An open-source RAG-based tool for chatting with your documents.",
       "items": [],
       "title": "Kotaemon"
     },
     {
-      "description": "92% 153.0k issues 3.4k (216 open, 3.2k closed) 2026-08-08 A low-code app builder for RAG and multi-agent AI applications.",
+      "description": "92% 153.3k issues 3.4k (215 open, 3.2k closed) 2026-08-16 A low-code app builder for RAG and multi-agent AI applications.",
       "items": [],
       "title": "LangFlow"
     },
     {
-      "description": "80% 32.8k issues 2.8k (288 open, 2.5k closed) 2026-08-07 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
+      "description": "80% 33.2k issues 2.9k (304 open, 2.6k closed) 2026-08-16 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
       "items": [],
       "title": "LangFuse"
     },
     {
-      "description": "42% 786 issues 79 (17 open, 62 closed) 2026-07-12 A new kind of workflow + tool for visualizing and exploring datasets through the lens of latent spaces.",
+      "description": "39% 789 issues 79 (17 open, 62 closed) 2026-07-12 A new kind of workflow + tool for visualizing and exploring datasets through the lens of latent spaces.",
       "items": [],
       "title": "Latent Scope"
     },
     {
-      "description": "75% 15.9k issues 596 (124 open, 472 closed) 2026-08-08 A free and open-source machine translation.",
+      "description": "71% 16.0k issues 597 (124 open, 473 closed) 2026-08-10 A free and open-source machine translation.",
       "items": [],
       "title": "LibreTranslate"
     },
     {
-      "description": "85% 55.9k issues 12.0k (1.6k open, 10.3k closed) 2026-08-09 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
+      "description": "84% 56.5k issues 12.1k (1.7k open, 10.5k closed) 2026-08-16 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
       "items": [],
       "title": "LiteLLM"
     },
@@ -431,217 +441,217 @@
       "title": "LitLytics"
     },
     {
-      "description": "66% 5.3k issues 451 (46 open, 405 closed) 2026-08-08 Runs multiple llama.cpp servers on demand for seamless switching between them.",
+      "description": "67% 5.4k issues 461 (45 open, 416 closed) 2026-08-17 Runs multiple llama.cpp servers on demand for seamless switching between them.",
       "items": [],
       "title": "llama-swap"
     },
     {
-      "description": "60% 13.6k issues 1.7k (583 open, 1.1k closed) 2026-07-13 A de-facto standard framework for the few-shot evaluation of language models.",
+      "description": "72% 13.7k issues 1.7k (584 open, 1.1k closed) 2026-08-14 A de-facto standard framework for the few-shot evaluation of language models.",
       "items": [],
       "title": "lm-evaluation-harness"
     },
     {
-      "description": "70% 8.9k issues 623 (210 open, 413 closed) 2026-08-08 Transforms complex questions into comprehensive, cited reports.",
+      "description": "70% 8.9k issues 651 (226 open, 425 closed) 2026-08-16 Transforms complex questions into comprehensive, cited reports.",
       "items": [],
       "title": "Local Deep Research"
     },
     {
-      "description": "83% 48.3k issues 1.6k (93 open, 1.5k closed) 2026-08-08 Complete AI stack for running AI models locally. Allows downloading variety of LLMs, TTS/STT/Image models and running them locally via Web UI.",
+      "description": "83% 48.5k issues 1.6k (88 open, 1.5k closed) 2026-08-16 Complete AI stack for running AI models locally. Allows downloading variety of LLMs, TTS/STT/Image models and running them locally via Web UI.",
       "items": [],
       "title": "LocalAI"
     },
     {
-      "description": "64% 4.3k issues 3.0k (960 open, 2.0k closed) 2026-08-07 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
+      "description": "64% 4.3k issues 3.1k (988 open, 2.1k closed) 2026-08-14 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
       "items": [],
       "title": "MCP Forge"
     },
     {
-      "description": "19% 4.3k issues 136 (38 open, 98 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
+      "description": "17% 4.3k issues 137 (39 open, 98 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
       "items": [],
       "title": "mcpo"
     },
     {
-      "description": "42% 2.6k issues 198 (91 open, 107 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
+      "description": "40% 2.6k issues 200 (93 open, 107 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
       "items": [],
       "title": "MetaMCP"
     },
     {
-      "description": "27% 101 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
+      "description": "25% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
       "items": [],
       "title": "mi"
     },
     {
-      "description": "65% 39.5k issues 4.4k (2 open, 4.4k closed) 2026-07-10 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
+      "description": "61% 39.6k issues 4.4k (2 open, 4.4k closed) 2026-07-10 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
       "items": [],
       "title": "MindsDB"
     },
     {
-      "description": "48% 10.7k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
+      "description": "45% 10.7k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
       "items": [],
       "title": "ML Intern"
     },
     {
-      "description": "70% 9.0k issues 278 (55 open, 223 closed) 2026-08-08 An AI-powered search engine with a generative UI, similar to Perplexity and Perplexica.",
+      "description": "71% 9.0k issues 282 (54 open, 228 closed) 2026-08-17 An AI-powered search engine with a generative UI, similar to Perplexity and Perplexica.",
       "items": [],
       "title": "Morphic"
     },
     {
-      "description": "95% 199.9k issues 9.9k (335 open, 9.6k closed) 2026-08-09 Fair-code workflow automation platform with native AI capabilities.",
+      "description": "95% 200.9k issues 10.0k (340 open, 9.7k closed) 2026-08-17 Fair-code workflow automation platform with native AI capabilities.",
       "items": [],
       "title": "n8n"
     },
     {
-      "description": "83% 46.8k issues 1.4k (195 open, 1.2k closed) 2026-08-08 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
+      "description": "83% 47.1k issues 1.4k (194 open, 1.3k closed) 2026-08-16 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
       "items": [],
       "title": "nanobot"
     },
     {
-      "description": "88% 80.1k issues 8.3k (185 open, 8.1k closed) 2026-08-09 Real-time infrastructure monitoring with per-second metrics for systems, containers, and applications.",
+      "description": "88% 80.2k issues 8.3k (208 open, 8.1k closed) 2026-08-17 Real-time infrastructure monitoring with per-second metrics for systems, containers, and applications.",
       "items": [],
       "title": "Netdata"
     },
     {
-      "description": "46% 460 issues 38 (8 open, 30 closed) 2026-08-03 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+      "description": "47% 463 issues 38 (8 open, 30 closed) 2026-08-14 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
       "items": [],
       "title": "npcsh"
     },
     {
-      "description": "68% 25.2k issues 243 (173 open, 70 closed) 2026-07-20 A simple screen parsing tool towards pure vision based GUI agent.",
+      "description": "64% 25.3k issues 243 (173 open, 70 closed) 2026-07-20 A simple screen parsing tool towards pure vision based GUI agent.",
       "items": [],
       "title": "OmniParser"
     },
     {
-      "description": "87% 84.6k issues 1.7k (453 open, 1.3k closed) 2026-08-07 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
+      "description": "88% 87.8k issues 1.8k (459 open, 1.3k closed) 2026-08-17 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
       "items": [],
       "title": "Open Design"
     },
     {
-      "description": "86% 67.9k issues 1.1k (1 open, 1.1k closed) 2026-08-08 A natural language interface for computers.",
+      "description": "85% 68.0k issues 1.1k (3 open, 1.1k closed) 2026-08-15 A natural language interface for computers.",
       "items": [],
       "title": "Open Interpreter"
     },
     {
-      "description": "77% 36.5k issues 569 (101 open, 468 closed) 2026-08-01 AI-powered research and note-taking platform with multi-provider LLM support, podcast generation, and content analysis.",
+      "description": "72% 36.9k issues 576 (106 open, 470 closed) 2026-08-01 AI-powered research and note-taking platform with multi-provider LLM support, podcast generation, and content analysis.",
       "items": [],
       "title": "Open Notebook"
     },
     {
-      "description": "62% 3.0k issues 90 (23 open, 67 closed) 2026-08-09 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
+      "description": "59% 3.0k issues 93 (26 open, 67 closed) 2026-08-10 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
       "items": [],
       "title": "Open Terminal"
     },
     {
-      "description": "4% 2.4k issues 280 (155 open, 125 closed) 2025-08-18 UI-Agnostic OpenAI API Plugin Framework.",
+      "description": "4% 2.4k issues 281 (156 open, 125 closed) 2025-08-18 UI-Agnostic OpenAI API Plugin Framework.",
       "items": [],
       "title": "Open WebUI Pipelines"
     },
     {
-      "description": "100% 385.6k issues 46.4k (3.4k open, 43.0k closed) 2026-08-09 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
+      "description": "100% 386.5k issues 47.3k (3.4k open, 43.9k closed) 2026-08-17 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
       "items": [],
       "title": "OpenClaw"
     },
     {
-      "description": "94% 195.2k issues 23.1k (3.8k open, 19.3k closed) 2026-08-08 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
+      "description": "95% 198.2k issues 23.9k (3.9k open, 20.0k closed) 2026-08-17 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
       "items": [],
       "title": "OpenCode"
     },
     {
-      "description": "38% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
+      "description": "36% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
       "items": [],
       "title": "OpenFang"
     },
     {
-      "description": "88% 83.5k issues 4.4k (274 open, 4.2k closed) 2026-08-09 A platform for software development agents powered by AI.",
+      "description": "87% 84.3k issues 4.5k (314 open, 4.2k closed) 2026-08-16 A platform for software development agents powered by AI.",
       "items": [],
       "title": "OpenHands"
     },
     {
-      "description": "55% 4.2k issues 99 (17 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
+      "description": "52% 4.2k issues 100 (18 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
       "items": [],
       "title": "OptiLLM"
     },
     {
-      "description": "32% 36.1k issues 672 (228 open, 444 closed) 2026-04-11 An AI-powered search engine (project evolved into Vane). Open source alternative to Perplexity AI.",
+      "description": "30% 36.2k issues 674 (230 open, 444 closed) 2026-04-11 An AI-powered search engine (project evolved into Vane). Open source alternative to Perplexity AI.",
       "items": [],
       "title": "Perplexica"
     },
     {
-      "description": "82% 40.0k issues 2.6k (428 open, 2.2k closed) 2026-08-08 AI-powered photo management app with face recognition, image classification, and automatic organization.",
+      "description": "82% 40.1k issues 2.6k (433 open, 2.2k closed) 2026-08-16 AI-powered photo management app with face recognition, image classification, and automatic organization.",
       "items": [],
       "title": "PhotoPrism"
     },
     {
-      "description": "7% 15.6k issues 206 (39 open, 167 closed) 2025-10-03 AI driven development in your terminal.",
+      "description": "6% 15.6k issues 206 (39 open, 167 closed) 2025-10-03 AI driven development in your terminal.",
       "items": [],
       "title": "Plandex"
     },
     {
-      "description": "81% 34.4k issues 781 (158 open, 623 closed) 2026-08-08 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
+      "description": "80% 34.8k issues 787 (157 open, 630 closed) 2026-08-15 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
       "items": [],
       "title": "Postiz"
     },
     {
-      "description": "70% 9.4k issues 287 (28 open, 259 closed) 2026-08-07 Open-source AI presentation generator with custom layouts, multi-model support, and PDF/PPTX export.",
+      "description": "69% 9.6k issues 292 (29 open, 263 closed) 2026-08-12 Open-source AI presentation generator with custom layouts, multi-model support, and PDF/PPTX export.",
       "items": [],
       "title": "Presenton"
     },
     {
-      "description": "77% 24.1k issues 1.3k (109 open, 1.1k closed) 2026-08-07 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
+      "description": "78% 24.3k issues 1.3k (111 open, 1.2k closed) 2026-08-17 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
       "items": [],
       "title": "Promptfoo"
     },
     {
-      "description": "78% 33.9k issues 1.9k (484 open, 1.5k closed) 2026-08-04 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine.",
+      "description": "73% 34.0k issues 2.0k (487 open, 1.5k closed) 2026-08-04 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine.",
       "items": [],
       "title": "Qdrant"
     },
     {
-      "description": "43% 1.2k issues 41 (12 open, 29 closed) 2026-07-09 Python toolkit for Retrieval-Augmented Generation (RAG)",
+      "description": "41% 1.2k issues 41 (12 open, 29 closed) 2026-07-09 Python toolkit for Retrieval-Augmented Generation (RAG)",
       "items": [],
       "title": "RAGLite"
     },
     {
-      "description": "79% 27.7k issues 259 (102 open, 157 closed) 2026-08-08 A powerful tool that packs your entire repository into a single, AI-friendly file.",
+      "description": "78% 27.9k issues 259 (101 open, 158 closed) 2026-08-15 A powerful tool that packs your entire repository into a single, AI-friendly file.",
       "items": [],
       "title": "Repopack"
     },
     {
-      "description": "74% 28.1k issues 251 (25 open, 226 closed) 2026-07-30 AI-powered tool for comparing resumes against job descriptions using local LLMs via Ollama.",
+      "description": "69% 28.2k issues 251 (23 open, 228 closed) 2026-07-30 AI-powered tool for comparing resumes against job descriptions using local LLMs via Ollama.",
       "items": [],
       "title": "Resume Matcher"
     },
     {
-      "description": "38% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
+      "description": "35% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
       "items": [],
       "title": "ROS MCP Server"
     },
     {
-      "description": "80% 35.2k issues 1.8k (177 open, 1.7k closed) 2026-08-06 A privacy-respecting, hackable metasearch engine. Highly configurable and can be used for Web RAG use-cases.",
+      "description": "81% 35.6k issues 1.8k (180 open, 1.7k closed) 2026-08-16 A privacy-respecting, hackable metasearch engine. Highly configurable and can be used for Web RAG use-cases.",
       "items": [],
       "title": "SearXNG"
     },
     {
-      "description": "79% 29.4k issues 465 (116 open, 349 closed) 2026-08-07 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
+      "description": "79% 29.4k issues 470 (117 open, 353 closed) 2026-08-15 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
       "items": [],
       "title": "Sim Studio"
     },
     {
-      "description": "18% 298 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
+      "description": "17% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
       "items": [],
       "title": "Solo CLI"
     },
     {
-      "description": "29% 5.8k issues 83 (22 open, 61 closed) 2026-04-21 Chat-based SQL client, which uses natural language to communicate with the database.",
+      "description": "27% 5.8k issues 83 (22 open, 61 closed) 2026-04-21 Chat-based SQL client, which uses natural language to communicate with the database.",
       "items": [],
       "title": "SQL Chat"
     },
     {
-      "description": "6% 2.8k issues 85 (41 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
+      "description": "6% 2.8k issues 88 (44 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
       "items": [],
       "title": "SuperGateway"
     },
     {
-      "description": "74% 15.8k issues 461 (117 open, 344 closed) 2026-08-07 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
+      "description": "70% 15.9k issues 461 (117 open, 344 closed) 2026-08-07 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
       "items": [],
       "title": "SurfSense"
     },
@@ -651,37 +661,37 @@
       "title": "TextGrad"
     },
     {
-      "description": "66% 4.9k issues 306 (57 open, 249 closed) 2026-08-09 Monitor AI token usage and costs across coding assistants.",
+      "description": "66% 5.0k issues 317 (59 open, 258 closed) 2026-08-17 Monitor AI token usage and costs across coding assistants.",
       "items": [],
       "title": "tokscale"
     },
     {
-      "description": "83% 64.4k issues 6.8k (689 open, 6.1k closed) 2026-08-04 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
+      "description": "82% 64.5k issues 6.8k (692 open, 6.1k closed) 2026-08-11 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
       "items": [],
       "title": "Traefik"
     },
     {
-      "description": "29% 459 issues 32 (2 open, 30 closed) 2026-06-05 RAG WebUI built with txtai.",
+      "description": "27% 461 issues 32 (2 open, 30 closed) 2026-06-05 RAG WebUI built with txtai.",
       "items": [],
       "title": "txtai RAG"
     },
     {
-      "description": "87% 69.7k issues 3.9k (742 open, 3.2k closed) 2026-08-09 Jupyter Lab environment with Unsloth for fast LLM fine-tuning - 2x faster training with 70% less memory.",
+      "description": "87% 72.8k issues 4.1k (879 open, 3.2k closed) 2026-08-17 Jupyter Lab environment with Unsloth for fast LLM fine-tuning - 2x faster training with 70% less memory.",
       "items": [],
       "title": "Unsloth"
     },
     {
-      "description": "87% 69.7k issues 3.9k (742 open, 3.2k closed) 2026-08-09 No-code web UI for fine-tuning LLMs with Unsloth. 2x faster training and 70% less memory, powered by llama.cpp + Hugging Face.",
+      "description": "87% 72.8k issues 4.1k (879 open, 3.2k closed) 2026-08-17 No-code web UI for fine-tuning LLMs with Unsloth. 2x faster training and 70% less memory, powered by llama.cpp + Hugging Face.",
       "items": [],
       "title": "Unsloth Studio"
     },
     {
-      "description": "63% 4.3k issues 162 (7 open, 155 closed) 2026-08-04 Linux in a web browser supporting popular desktop environments.",
+      "description": "62% 4.3k issues 162 (5 open, 157 closed) 2026-08-11 Linux in a web browser supporting popular desktop environments.",
       "items": [],
       "title": "Webtop"
     },
     {
-      "description": "75% 17.5k issues 1.6k (552 open, 1.0k closed) 2026-08-07 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
+      "description": "75% 17.6k issues 1.6k (555 open, 1.0k closed) 2026-08-16 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
       "items": [],
       "title": "Windmill"
     },
@@ -691,32 +701,32 @@
       "title": "Workflow & Automation"
     },
     {
-      "description": "78% 23.6k issues 3.0k (370 open, 2.6k closed) 2026-08-08 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
+      "description": "78% 23.8k issues 3.0k (382 open, 2.7k closed) 2026-08-17 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
       "items": [],
       "title": "Activepieces"
     },
     {
-      "description": "91% 125.0k issues 9.0k (4.0k open, 5.0k closed) 2026-08-09 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "description": "91% 128.0k issues 9.1k (4.1k open, 5.0k closed) 2026-08-17 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "items": [],
       "title": "ComfyUI"
     },
     {
-      "description": "87% 79.6k issues 1.8k (596 open, 1.2k closed) 2026-08-08 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
+      "description": "88% 80.1k issues 1.9k (552 open, 1.3k closed) 2026-08-17 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
       "items": [],
       "title": "DeerFlow"
     },
     {
-      "description": "93% 151.8k issues 18.6k (270 open, 18.3k closed) 2026-08-09 An open-source LLM app development platform.",
+      "description": "93% 152.7k issues 18.6k (286 open, 18.3k closed) 2026-08-17 An open-source LLM app development platform.",
       "items": [],
       "title": "Dify"
     },
     {
-      "description": "84% 55.3k issues 2.7k (700 open, 2.0k closed) 2026-08-07 Drag & drop UI to build your customized LLM flow.",
+      "description": "82% 55.4k issues 2.7k (701 open, 2.0k closed) 2026-08-13 Drag & drop UI to build your customized LLM flow.",
       "items": [],
       "title": "Flowise"
     },
     {
-      "description": "92% 153.0k issues 3.4k (216 open, 3.2k closed) 2026-08-08 A low-code app builder for RAG and multi-agent AI applications.",
+      "description": "92% 153.3k issues 3.4k (215 open, 3.2k closed) 2026-08-16 A low-code app builder for RAG and multi-agent AI applications.",
       "items": [],
       "title": "LangFlow"
     },
@@ -726,32 +736,32 @@
       "title": "LitLytics"
     },
     {
-      "description": "95% 199.9k issues 9.9k (335 open, 9.6k closed) 2026-08-09 Fair-code workflow automation platform with native AI capabilities.",
+      "description": "95% 200.9k issues 10.0k (340 open, 9.7k closed) 2026-08-17 Fair-code workflow automation platform with native AI capabilities.",
       "items": [],
       "title": "n8n"
     },
     {
-      "description": "79% 31.5k issues 1.3k (99 open, 1.2k closed) 2026-08-07 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
+      "description": "79% 31.6k issues 1.3k (107 open, 1.2k closed) 2026-08-14 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
       "items": [],
       "title": "Onyx"
     },
     {
-      "description": "4% 2.4k issues 280 (155 open, 125 closed) 2025-08-18 UI-Agnostic OpenAI API Plugin Framework.",
+      "description": "4% 2.4k issues 281 (156 open, 125 closed) 2025-08-18 UI-Agnostic OpenAI API Plugin Framework.",
       "items": [],
       "title": "Open WebUI Pipelines"
     },
     {
-      "description": "79% 29.4k issues 465 (116 open, 349 closed) 2026-08-07 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
+      "description": "79% 29.4k issues 470 (117 open, 353 closed) 2026-08-15 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
       "items": [],
       "title": "Sim Studio"
     },
     {
-      "description": "74% 15.8k issues 461 (117 open, 344 closed) 2026-08-07 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
+      "description": "70% 15.9k issues 461 (117 open, 344 closed) 2026-08-07 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
       "items": [],
       "title": "SurfSense"
     },
     {
-      "description": "75% 17.5k issues 1.6k (552 open, 1.0k closed) 2026-08-07 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
+      "description": "75% 17.6k issues 1.6k (555 open, 1.0k closed) 2026-08-16 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
       "items": [],
       "title": "Windmill"
     },
@@ -761,27 +771,27 @@
       "title": "API & Proxies"
     },
     {
-      "description": "68% 7.2k issues 1.1k (352 open, 732 closed) 2026-08-08 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
+      "description": "69% 7.4k issues 1.1k (389 open, 737 closed) 2026-08-17 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
       "items": [],
       "title": "Bifrost"
     },
     {
-      "description": "74% 15.1k issues 1.3k (488 open, 850 closed) 2026-08-07 A helper service allowing to expose Harbor services over the internet.",
+      "description": "73% 15.3k issues 1.3k (484 open, 860 closed) 2026-08-14 A helper service allowing to expose Harbor services over the internet.",
       "items": [],
       "title": "cloudflared"
     },
     {
-      "description": "80% 29.9k issues 891 (148 open, 743 closed) 2026-08-08 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
+      "description": "80% 30.1k issues 903 (82 open, 821 closed) 2026-08-16 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
       "items": [],
       "title": "Cognee"
     },
     {
-      "description": "61% 72.0k issues 1.2k (312 open, 932 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
+      "description": "58% 72.0k issues 1.2k (312 open, 932 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
       "items": [],
       "title": "Daytona"
     },
     {
-      "description": "63% 3.3k issues 165 (1 open, 164 closed) 2026-08-08 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
+      "description": "62% 3.4k issues 166 (1 open, 165 closed) 2026-08-15 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
       "items": [],
       "title": "DBHub"
     },
@@ -791,97 +801,97 @@
       "title": "Docker Model Runner"
     },
     {
-      "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-02 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
       "items": [],
       "title": "Harbor Boost"
     },
     {
-      "description": "80% 32.8k issues 2.8k (288 open, 2.5k closed) 2026-08-07 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
+      "description": "80% 33.2k issues 2.9k (304 open, 2.6k closed) 2026-08-16 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
       "items": [],
       "title": "LangFuse"
     },
     {
-      "description": "66% 5.3k issues 1.3k (356 open, 902 closed) 2026-08-08 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
+      "description": "67% 5.4k issues 1.3k (372 open, 956 closed) 2026-08-17 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
       "items": [],
       "title": "Lemonade"
     },
     {
-      "description": "85% 55.9k issues 12.0k (1.6k open, 10.3k closed) 2026-08-09 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
+      "description": "84% 56.5k issues 12.1k (1.7k open, 10.5k closed) 2026-08-16 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
       "items": [],
       "title": "LiteLLM"
     },
     {
-      "description": "66% 5.3k issues 451 (46 open, 405 closed) 2026-08-08 Runs multiple llama.cpp servers on demand for seamless switching between them.",
+      "description": "67% 5.4k issues 461 (45 open, 416 closed) 2026-08-17 Runs multiple llama.cpp servers on demand for seamless switching between them.",
       "items": [],
       "title": "llama-swap"
     },
     {
-      "description": "65% 39.5k issues 4.4k (2 open, 4.4k closed) 2026-07-10 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
+      "description": "61% 39.6k issues 4.4k (2 open, 4.4k closed) 2026-07-10 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
       "items": [],
       "title": "MindsDB"
     },
     {
-      "description": "48% 10.7k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
+      "description": "45% 10.7k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
       "items": [],
       "title": "ML Intern"
     },
     {
-      "description": "66% 6.5k issues 546 (227 open, 319 closed) 2026-08-05 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
+      "description": "62% 6.7k issues 557 (238 open, 319 closed) 2026-08-05 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
       "items": [],
       "title": "MLX"
     },
     {
-      "description": "55% 3.4k issues 16 (13 open, 3 closed) 2026-07-22 Small function-calling model served through an OpenAI-compatible tool-calling API.",
+      "description": "68% 6.8k issues 34 (16 open, 18 closed) 2026-08-15 Small function-calling model served through an OpenAI-compatible tool-calling API.",
       "items": [],
       "title": "Needle"
     },
     {
-      "description": "46% 460 issues 38 (8 open, 30 closed) 2026-08-03 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+      "description": "47% 463 issues 38 (8 open, 30 closed) 2026-08-14 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
       "items": [],
       "title": "npcsh"
     },
     {
-      "description": "76% 18.5k issues 1.5k (667 open, 876 closed) 2026-08-08 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
+      "description": "77% 18.8k issues 1.6k (723 open, 897 closed) 2026-08-17 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
       "items": [],
       "title": "oMLX"
     },
     {
-      "description": "62% 3.0k issues 90 (23 open, 67 closed) 2026-08-09 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
+      "description": "59% 3.0k issues 93 (26 open, 67 closed) 2026-08-10 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
       "items": [],
       "title": "Open Terminal"
     },
     {
-      "description": "4% 2.4k issues 280 (155 open, 125 closed) 2025-08-18 UI-Agnostic OpenAI API Plugin Framework.",
+      "description": "4% 2.4k issues 281 (156 open, 125 closed) 2025-08-18 UI-Agnostic OpenAI API Plugin Framework.",
       "items": [],
       "title": "Open WebUI Pipelines"
     },
     {
-      "description": "38% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
+      "description": "36% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
       "items": [],
       "title": "OpenFang"
     },
     {
-      "description": "55% 4.2k issues 99 (17 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
+      "description": "52% 4.2k issues 100 (18 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
       "items": [],
       "title": "OptiLLM"
     },
     {
-      "description": "38% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
+      "description": "35% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
       "items": [],
       "title": "ROS MCP Server"
     },
     {
-      "description": "74% 12.1k issues 163 (93 open, 70 closed) 2026-08-10 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
+      "description": "69% 12.1k issues 163 (93 open, 70 closed) 2026-08-10 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
       "items": [],
       "title": "Speech To Speech"
     },
     {
-      "description": "83% 64.4k issues 6.8k (689 open, 6.1k closed) 2026-08-04 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
+      "description": "82% 64.5k issues 6.8k (692 open, 6.1k closed) 2026-08-11 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
       "items": [],
       "title": "Traefik"
     },
     {
-      "description": "76% 49.8k issues 668 (478 open, 190 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
+      "description": "72% 50.6k issues 682 (491 open, 191 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
       "items": [],
       "title": "Voicebox"
     },
@@ -891,17 +901,17 @@
       "title": "Audio & Speech"
     },
     {
-      "description": "27% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
+      "description": "25% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
       "items": [],
       "title": "faster-whisper-server"
     },
     {
-      "description": "66% 5.3k issues 1.3k (356 open, 902 closed) 2026-08-08 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
+      "description": "67% 5.4k issues 1.3k (372 open, 956 closed) 2026-08-17 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
       "items": [],
       "title": "Lemonade"
     },
     {
-      "description": "1% 859 issues 85 (7 open, 78 closed) 2025-02-02 An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.",
+      "description": "1% 858 issues 85 (7 open, 78 closed) 2025-02-02 An OpenAI API compatible text to speech server using Coqui AI's xtts_v2 and/or piper tts as the backend.",
       "items": [],
       "title": "openedai-speech"
     },
@@ -911,17 +921,17 @@
       "title": "Parler"
     },
     {
-      "description": "27% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
+      "description": "25% 3.6k issues 331 (107 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
       "items": [],
       "title": "Speaches"
     },
     {
-      "description": "74% 12.1k issues 163 (93 open, 70 closed) 2026-08-10 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
+      "description": "69% 12.1k issues 163 (93 open, 70 closed) 2026-08-10 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
       "items": [],
       "title": "Speech To Speech"
     },
     {
-      "description": "76% 49.8k issues 668 (478 open, 190 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
+      "description": "72% 50.6k issues 682 (491 open, 191 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
       "items": [],
       "title": "Voicebox"
     },
@@ -931,117 +941,122 @@
       "title": "CLI Tools"
     },
     {
-      "description": "20% 10.3k issues 660 (47 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
+      "description": "19% 10.4k issues 660 (47 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
       "items": [],
       "title": "aichat"
     },
     {
-      "description": "46% 48.1k issues 4.3k (1.3k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
+      "description": "43% 48.3k issues 4.4k (1.3k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
       "items": [],
       "title": "Aider"
     },
     {
-      "description": "74% 15.1k issues 1.3k (488 open, 850 closed) 2026-08-07 A helper service allowing to expose Harbor services over the internet.",
+      "description": "73% 15.3k issues 1.3k (484 open, 860 closed) 2026-08-14 A helper service allowing to expose Harbor services over the internet.",
       "items": [],
       "title": "cloudflared"
     },
     {
-      "description": "11% 133 issues 16 (9 open, 7 closed) 2026-02-25 Create Linux commands from natural language, in the shell.",
+      "description": "10% 133 issues 16 (9 open, 7 closed) 2026-02-25 Create Linux commands from natural language, in the shell.",
       "items": [],
       "title": "cmdh"
     },
     {
-      "description": "80% 43.4k issues 858 (29 open, 829 closed) 2026-08-04 LLM-driven processing of the text data in the terminal.",
+      "description": "75% 43.5k issues 859 (30 open, 829 closed) 2026-08-04 LLM-driven processing of the text data in the terminal.",
       "items": [],
       "title": "Fabric"
     },
     {
-      "description": "25% 198 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
+      "description": "23% 198 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
       "items": [],
       "title": "facts"
     },
     {
-      "description": "65% 4.4k issues 599 (4 open, 595 closed) 2026-08-08 A simple CLI tool to interact with LLMs.",
+      "description": "65% 4.4k issues 609 (5 open, 604 closed) 2026-08-16 A simple CLI tool to interact with LLMs.",
       "items": [],
       "title": "gptme"
     },
     {
-      "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-02 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
       "items": [],
       "title": "Harbor Bench"
     },
     {
-      "description": "96% 227.6k issues 20.3k (9.9k open, 10.4k closed) 2026-08-09 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Containerized Harbor CLI for running Harbor commands without a host install.",
+      "items": [],
+      "title": "Harbor CLI"
+    },
+    {
+      "description": "96% 231.7k issues 22.0k (10.9k open, 11.1k closed) 2026-08-17 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
       "items": [],
       "title": "Hermes Agent"
     },
     {
-      "description": "77% 31.2k issues 2.7k (708 open, 1.9k closed) 2026-08-03 A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "description": "78% 31.3k issues 2.7k (703 open, 1.9k closed) 2026-08-13 A modern load testing tool, using Go and JavaScript - https://k6.io",
       "items": [],
       "title": "K6"
     },
     {
-      "description": "60% 13.6k issues 1.7k (583 open, 1.1k closed) 2026-07-13 A de-facto standard framework for the few-shot evaluation of language models.",
+      "description": "72% 13.7k issues 1.7k (584 open, 1.1k closed) 2026-08-14 A de-facto standard framework for the few-shot evaluation of language models.",
       "items": [],
       "title": "lm-evaluation-harness"
     },
     {
-      "description": "27% 101 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
+      "description": "25% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
       "items": [],
       "title": "mi"
     },
     {
-      "description": "83% 46.8k issues 1.4k (195 open, 1.2k closed) 2026-08-08 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
+      "description": "83% 47.1k issues 1.4k (194 open, 1.3k closed) 2026-08-16 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
       "items": [],
       "title": "nanobot"
     },
     {
-      "description": "46% 460 issues 38 (8 open, 30 closed) 2026-08-03 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+      "description": "47% 463 issues 38 (8 open, 30 closed) 2026-08-14 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
       "items": [],
       "title": "npcsh"
     },
     {
-      "description": "86% 67.9k issues 1.1k (1 open, 1.1k closed) 2026-08-08 A natural language interface for computers.",
+      "description": "85% 68.0k issues 1.1k (3 open, 1.1k closed) 2026-08-15 A natural language interface for computers.",
       "items": [],
       "title": "Open Interpreter"
     },
     {
-      "description": "94% 195.2k issues 23.1k (3.8k open, 19.3k closed) 2026-08-08 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
+      "description": "95% 198.2k issues 23.9k (3.9k open, 20.0k closed) 2026-08-17 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
       "items": [],
       "title": "OpenCode"
     },
     {
-      "description": "59% 2.4k issues 156 (4 open, 152 closed) 2026-08-06 The text-based terminal client for Ollama.",
+      "description": "56% 2.4k issues 156 (4 open, 152 closed) 2026-08-06 The text-based terminal client for Ollama.",
       "items": [],
       "title": "oterm"
     },
     {
-      "description": "7% 15.6k issues 206 (39 open, 167 closed) 2025-10-03 AI driven development in your terminal.",
+      "description": "6% 15.6k issues 206 (39 open, 167 closed) 2025-10-03 AI driven development in your terminal.",
       "items": [],
       "title": "Plandex"
     },
     {
-      "description": "77% 24.1k issues 1.3k (109 open, 1.1k closed) 2026-08-07 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
+      "description": "78% 24.3k issues 1.3k (111 open, 1.2k closed) 2026-08-17 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
       "items": [],
       "title": "Promptfoo"
     },
     {
-      "description": "79% 27.7k issues 259 (102 open, 157 closed) 2026-08-08 A powerful tool that packs your entire repository into a single, AI-friendly file.",
+      "description": "78% 27.9k issues 259 (101 open, 158 closed) 2026-08-15 A powerful tool that packs your entire repository into a single, AI-friendly file.",
       "items": [],
       "title": "Repopack"
     },
     {
-      "description": "18% 298 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
+      "description": "17% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
       "items": [],
       "title": "Solo CLI"
     },
     {
-      "description": "6% 2.8k issues 85 (41 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
+      "description": "6% 2.8k issues 88 (44 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
       "items": [],
       "title": "SuperGateway"
     },
     {
-      "description": "66% 4.9k issues 306 (57 open, 249 closed) 2026-08-09 Monitor AI token usage and costs across coding assistants.",
+      "description": "66% 5.0k issues 317 (59 open, 258 closed) 2026-08-17 Monitor AI token usage and costs across coding assistants.",
       "items": [],
       "title": "tokscale"
     },
@@ -1051,12 +1066,12 @@
       "title": "Evaluation"
     },
     {
-      "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-02 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
+      "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-16 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
       "items": [],
       "title": "Harbor Bench"
     },
     {
-      "description": "60% 13.6k issues 1.7k (583 open, 1.1k closed) 2026-07-13 A de-facto standard framework for the few-shot evaluation of language models.",
+      "description": "72% 13.7k issues 1.7k (584 open, 1.1k closed) 2026-08-14 A de-facto standard framework for the few-shot evaluation of language models.",
       "items": [],
       "title": "lm-evaluation-harness"
     },
@@ -1066,102 +1081,102 @@
       "title": "MCP Tools"
     },
     {
-      "description": "82% 38.8k issues 6.4k (1.0k open, 5.4k closed) 2026-08-08 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
+      "description": "81% 39.3k issues 6.4k (1.0k open, 5.4k closed) 2026-08-15 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
       "items": [],
       "title": "AstrBot"
     },
     {
-      "description": "63% 3.3k issues 165 (1 open, 164 closed) 2026-08-08 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
+      "description": "62% 3.4k issues 166 (1 open, 165 closed) 2026-08-15 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
       "items": [],
       "title": "DBHub"
     },
     {
-      "description": "25% 198 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
+      "description": "23% 198 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
       "items": [],
       "title": "facts"
     },
     {
-      "description": "96% 227.6k issues 20.3k (9.9k open, 10.4k closed) 2026-08-09 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
+      "description": "96% 231.7k issues 22.0k (10.9k open, 11.1k closed) 2026-08-17 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
       "items": [],
       "title": "Hermes Agent"
     },
     {
-      "description": "64% 4.3k issues 3.0k (960 open, 2.0k closed) 2026-08-07 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
+      "description": "64% 4.3k issues 3.1k (988 open, 2.1k closed) 2026-08-14 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
       "items": [],
       "title": "MCP Forge"
     },
     {
-      "description": "19% 4.3k issues 136 (38 open, 98 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
+      "description": "17% 4.3k issues 137 (39 open, 98 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
       "items": [],
       "title": "mcpo"
     },
     {
-      "description": "42% 2.6k issues 198 (91 open, 107 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
+      "description": "40% 2.6k issues 200 (93 open, 107 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
       "items": [],
       "title": "MetaMCP"
     },
     {
-      "description": "27% 101 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
+      "description": "25% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
       "items": [],
       "title": "mi"
     },
     {
-      "description": "48% 10.7k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
+      "description": "45% 10.7k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
       "items": [],
       "title": "ML Intern"
     },
     {
-      "description": "83% 46.8k issues 1.4k (195 open, 1.2k closed) 2026-08-08 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
+      "description": "83% 47.1k issues 1.4k (194 open, 1.3k closed) 2026-08-16 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
       "items": [],
       "title": "nanobot"
     },
     {
-      "description": "55% 3.4k issues 16 (13 open, 3 closed) 2026-07-22 Small function-calling model served through an OpenAI-compatible tool-calling API.",
+      "description": "68% 6.8k issues 34 (16 open, 18 closed) 2026-08-15 Small function-calling model served through an OpenAI-compatible tool-calling API.",
       "items": [],
       "title": "Needle"
     },
     {
-      "description": "46% 460 issues 38 (8 open, 30 closed) 2026-08-03 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+      "description": "47% 463 issues 38 (8 open, 30 closed) 2026-08-14 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
       "items": [],
       "title": "npcsh"
     },
     {
-      "description": "87% 84.6k issues 1.7k (453 open, 1.3k closed) 2026-08-07 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
+      "description": "88% 87.8k issues 1.8k (459 open, 1.3k closed) 2026-08-17 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
       "items": [],
       "title": "Open Design"
     },
     {
-      "description": "62% 3.0k issues 90 (23 open, 67 closed) 2026-08-09 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
+      "description": "59% 3.0k issues 93 (26 open, 67 closed) 2026-08-10 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
       "items": [],
       "title": "Open Terminal"
     },
     {
-      "description": "100% 385.6k issues 46.4k (3.4k open, 43.0k closed) 2026-08-09 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
+      "description": "100% 386.5k issues 47.3k (3.4k open, 43.9k closed) 2026-08-17 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
       "items": [],
       "title": "OpenClaw"
     },
     {
-      "description": "38% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
+      "description": "36% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
       "items": [],
       "title": "OpenFang"
     },
     {
-      "description": "81% 34.4k issues 781 (158 open, 623 closed) 2026-08-08 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
+      "description": "80% 34.8k issues 787 (157 open, 630 closed) 2026-08-15 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
       "items": [],
       "title": "Postiz"
     },
     {
-      "description": "38% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
+      "description": "35% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
       "items": [],
       "title": "ROS MCP Server"
     },
     {
-      "description": "18% 298 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
+      "description": "17% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
       "items": [],
       "title": "Solo CLI"
     },
     {
-      "description": "6% 2.8k issues 85 (41 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
+      "description": "6% 2.8k issues 88 (44 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
       "items": [],
       "title": "SuperGateway"
     },
@@ -1172,9 +1187,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:21:30.675Z",
+    "last_updated": "2026-08-17T13:28:52.124Z",
     "original_repository": "av/awesome-llm-services",
-    "original_repository_sha": "704b353b7debfe1200edde97feedfd4336f0b455",
+    "original_repository_sha": "455c2f53da2f7e6e19547da8282d0be2b08ea25b",
     "enhanced_repository": "enhansome/enhansome-llm-services",
     "enhanced_repository_description": null,
     "title": "Awesome llm services with stars"
