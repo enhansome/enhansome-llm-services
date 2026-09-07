@@ -5,7 +5,7 @@
       "items": [
         {
           "children": [],
-          "description": "84% 65.4k issues 3.8k (295 open, 3.5k closed) 2026-08-28 The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+          "description": "83% 65.7k issues 3.8k (318 open, 3.5k closed) 2026-09-02 The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -15,10 +15,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T01:10:46Z",
-            "open_issues": 344,
+            "open_issues": 359,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65686,
+            "stars": 65734,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -43,7 +43,7 @@
         },
         {
           "children": [],
-          "description": "82% 39.8k issues 6.5k (1.1k open, 5.5k closed) 2026-08-31 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
+          "description": "82% 40.1k issues 6.5k (1.1k open, 5.5k closed) 2026-09-07 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -52,11 +52,11 @@
             "id": 575865240,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T12:03:13Z",
-            "open_issues": 1483,
+            "last_commit": "2026-09-07T16:39:27Z",
+            "open_issues": 1477,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 40089,
+            "stars": 40165,
             "topics": [
               "agent",
               "ai",
@@ -82,7 +82,7 @@
         },
         {
           "children": [],
-          "description": "60% 2.4k issues 406 (0 open, 406 closed) 2026-08-30 on-premise LLM web UI with support for OpenAI-compatible backends",
+          "description": "59% 2.4k issues 407 (1 open, 406 closed) 2026-09-03 on-premise LLM web UI with support for OpenAI-compatible backends",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -91,7 +91,7 @@
             "id": 663396489,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T09:06:17Z",
+            "last_commit": "2026-09-07T12:55:06Z",
             "open_issues": 7,
             "owner": "bionic-gpt",
             "repo": "bionic-gpt",
@@ -110,7 +110,7 @@
         },
         {
           "children": [],
-          "description": "19% 9.3k issues 309 (26 open, 283 closed) 2026-03-12 Comprehensive LLM web interface with built-in marketplace",
+          "description": "18% 9.3k issues 311 (28 open, 283 closed) 2026-03-12 Comprehensive LLM web interface with built-in marketplace",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -123,7 +123,7 @@
             "open_issues": 39,
             "owner": "coaidev",
             "repo": "coai",
-            "stars": 9307,
+            "stars": 9310,
             "topics": [
               "ai-gateway",
               "api",
@@ -143,7 +143,7 @@
         },
         {
           "children": [],
-          "description": "92% 130.8k issues 9.2k (4.2k open, 5.1k closed) 2026-08-31 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "description": "92% 131.8k issues 9.3k (4.2k open, 5.1k closed) 2026-09-07 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -152,11 +152,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T01:56:02Z",
-            "open_issues": 4825,
+            "last_commit": "2026-09-07T17:10:32Z",
+            "open_issues": 4818,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 131744,
+            "stars": 131925,
             "topics": [
               "ai",
               "comfy",
@@ -171,7 +171,7 @@
         },
         {
           "children": [],
-          "description": "5% 1.2k issues 206 (67 open, 139 closed) 2025-10-12 A minimal web-UI for talking to Ollama servers.",
+          "description": "4% 1.2k issues 206 (67 open, 139 closed) 2025-10-12 A minimal web-UI for talking to Ollama servers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -198,7 +198,7 @@
         },
         {
           "children": [],
-          "description": "72% 10.9k issues 749 (190 open, 559 closed) 2026-08-30 A chat interface using open source models, eg OpenAssistant or Llama. It is a SvelteKit app and it powers the HuggingChat app on hf.co/chat.",
+          "description": "71% 10.9k issues 749 (190 open, 559 closed) 2026-09-04 A chat interface using open source models, eg OpenAssistant or Llama. It is a SvelteKit app and it powers the HuggingChat app on hf.co/chat.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -207,11 +207,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T18:34:52Z",
-            "open_issues": 281,
+            "last_commit": "2026-09-07T17:47:51Z",
+            "open_issues": 283,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10933,
+            "stars": 10934,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -229,7 +229,7 @@
         },
         {
           "children": [],
-          "description": "71% 11.6k issues 1.6k (503 open, 1.1k closed) 2026-08-28 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+          "description": "67% 11.6k issues 1.6k (506 open, 1.1k closed) 2026-08-28 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -238,11 +238,11 @@
             "id": 614637892,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T10:18:26Z",
-            "open_issues": 509,
+            "last_commit": "2026-09-07T16:00:53Z",
+            "open_issues": 510,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11622,
+            "stars": 11628,
             "topics": [
               "gemma",
               "ggml",
@@ -261,7 +261,7 @@
         },
         {
           "children": [],
-          "description": "83% 42.6k issues 5.0k (352 open, 4.6k closed) 2026-08-31 Open-source ChatGPT UI alternative supporting multiple AI providers (Anthropic, AWS, OpenAI, Azure, Groq, Mistral, Google) with features like model switching, message search, and multi-user support. Includes integration with DALL-E-3 and various APIs.",
+          "description": "82% 42.9k issues 5.0k (340 open, 4.7k closed) 2026-09-06 Open-source ChatGPT UI alternative supporting multiple AI providers (Anthropic, AWS, OpenAI, Azure, Groq, Mistral, Google) with features like model switching, message search, and multi-user support. Includes integration with DALL-E-3 and various APIs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -270,11 +270,11 @@
             "id": 600596928,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:49:44Z",
-            "open_issues": 741,
+            "last_commit": "2026-09-07T17:48:19Z",
+            "open_issues": 718,
             "owner": "danny-avila",
             "repo": "LibreChat",
-            "stars": 42861,
+            "stars": 42895,
             "topics": [
               "ai",
               "anthropic",
@@ -303,7 +303,7 @@
         },
         {
           "children": [],
-          "description": "88% 82.1k issues 6.4k (326 open, 6.1k closed) 2026-08-31 An open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek / MiniMax), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system.",
+          "description": "88% 82.3k issues 6.5k (338 open, 6.1k closed) 2026-09-07 An open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek / MiniMax), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -312,11 +312,11 @@
             "id": 643445235,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:40:08Z",
-            "open_issues": 887,
+            "last_commit": "2026-09-07T17:49:24Z",
+            "open_issues": 894,
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 82269,
+            "stars": 82293,
             "topics": [
               "agent",
               "agent-collaboration",
@@ -343,7 +343,7 @@
         },
         {
           "children": [],
-          "description": "8% 751 issues 67 (18 open, 49 closed) 2025-12-27 LLM Frontend in a single HMTL file",
+          "description": "7% 751 issues 67 (18 open, 49 closed) 2025-12-27 LLM Frontend in a single HMTL file",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
             "open_issues": 21,
             "owner": "lmg-anon",
             "repo": "mikupad",
-            "stars": 751,
+            "stars": 752,
             "topics": [
               "ai",
               "llm",
@@ -368,7 +368,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 A simple Gradio app implementing an o1-like chain of reasoning with Ollama.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 A simple Gradio app implementing an o1-like chain of reasoning with Ollama.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -442,7 +442,7 @@
         },
         {
           "children": [],
-          "description": "79% 31.9k issues 1.4k (125 open, 1.2k closed) 2026-08-29 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
+          "description": "79% 32.0k issues 1.4k (127 open, 1.2k closed) 2026-09-04 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -451,11 +451,11 @@
             "id": 633262635,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T11:41:38Z",
-            "open_issues": 439,
+            "last_commit": "2026-09-07T13:37:03Z",
+            "open_issues": 444,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 31944,
+            "stars": 31962,
             "topics": [
               "ai",
               "ai-chat",
@@ -478,7 +478,7 @@
         },
         {
           "children": [],
-          "description": "93% 150.5k issues 9.5k (156 open, 9.4k closed) 2026-08-31 widely adopted and feature rich web interface for interacting with LLMs. Supports OpenAI-compatible and Ollama backends, multi-users, multi-model chats, custom prompts, TTS, Web RAG, RAG, and much much more.",
+          "description": "91% 151.2k issues 9.7k (207 open, 9.5k closed) 2026-09-04 widely adopted and feature rich web interface for interacting with LLMs. Supports OpenAI-compatible and Ollama backends, multi-users, multi-model chats, custom prompts, TTS, Web RAG, RAG, and much much more.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -487,11 +487,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T03:34:34Z",
-            "open_issues": 302,
+            "last_commit": "2026-09-07T17:26:31Z",
+            "open_issues": 267,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 151105,
+            "stars": 151232,
             "topics": [
               "ai",
               "llm",
@@ -515,7 +515,7 @@
         },
         {
           "children": [],
-          "description": "50% 2.4k issues 156 (4 open, 152 closed) 2026-08-06 The text-based terminal client for Ollama.",
+          "description": "58% 2.4k issues 156 (4 open, 152 closed) 2026-09-02 The text-based terminal client for Ollama.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -543,7 +543,7 @@
         },
         {
           "children": [],
-          "description": "32% 487 issues 40 (3 open, 37 closed) 2026-07-11 TUI for Ollama",
+          "description": "47% 487 issues 40 (3 open, 37 closed) 2026-09-04 TUI for Ollama",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -556,7 +556,7 @@
             "open_issues": 4,
             "owner": "paulrobello",
             "repo": "parllama",
-            "stars": 487,
+            "stars": 486,
             "topics": [
               "ai",
               "anthropic",
@@ -574,7 +574,7 @@
         },
         {
           "children": [],
-          "description": "53% 32.9k issues 2.7k (440 open, 2.2k closed) 2026-07-07 Feature-rich LLM chat frontend for power users. Supports multiple AI backends, personas, advanced prompting, and extensions.",
+          "description": "50% 33.1k issues 2.7k (442 open, 2.2k closed) 2026-07-07 Feature-rich LLM chat frontend for power users. Supports multiple AI backends, personas, advanced prompting, and extensions.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -584,10 +584,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-31T22:58:51Z",
-            "open_issues": 604,
+            "open_issues": 607,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 33059,
+            "stars": 33113,
             "topics": [
               "ai",
               "chat",
@@ -599,7 +599,7 @@
         },
         {
           "children": [],
-          "description": "64% 51.9k issues 695 (502 open, 193 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
+          "description": "61% 52.5k issues 700 (507 open, 193 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -609,10 +609,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-09T00:03:42Z",
-            "open_issues": 675,
+            "open_issues": 677,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 52410,
+            "stars": 52498,
             "topics": [
               "ai",
               "cuda",
@@ -635,7 +635,7 @@
       "items": [
         {
           "children": [],
-          "description": "80% 33.2k issues 251 (106 open, 145 closed) 2026-08-30 70B inference with single 4GB GPU (very slow, though)",
+          "description": "80% 33.8k issues 251 (106 open, 145 closed) 2026-09-06 70B inference with single 4GB GPU (very slow, though)",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -644,11 +644,11 @@
             "id": 652712035,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T06:21:46Z",
+            "last_commit": "2026-09-07T06:28:22Z",
             "open_issues": 147,
             "owner": "lyogavin",
             "repo": "airllm",
-            "stars": 33773,
+            "stars": 33818,
             "topics": [
               "chinese-llm",
               "chinese-nlp",
@@ -670,7 +670,7 @@
         },
         {
           "children": [],
-          "description": "51% 1.8k issues 251 (80 open, 171 closed) 2026-08-13 Large-scale LLM inference engine",
+          "description": "58% 1.9k issues 251 (30 open, 221 closed) 2026-09-07 Large-scale LLM inference engine",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -679,11 +679,11 @@
             "id": 657414607,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T19:44:45Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-07T16:47:21Z",
+            "open_issues": 56,
             "owner": "dphnAI",
             "repo": "sonar",
-            "stars": 1849,
+            "stars": 1850,
             "topics": [
               "api-rest",
               "cuda",
@@ -702,7 +702,7 @@
         },
         {
           "children": [],
-          "description": "23% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
+          "description": "21% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -715,7 +715,7 @@
             "open_issues": 145,
             "owner": "speaches-ai",
             "repo": "speaches",
-            "stars": 3647,
+            "stars": 3651,
             "topics": [
               "docker",
               "docker-compose",
@@ -733,7 +733,7 @@
         },
         {
           "children": [],
-          "description": "61% 3.2k issues 620 (59 open, 561 closed) 2026-08-28 llama.cpp fork with additional quantization formats and CPU/CUDA performance improvements.",
+          "description": "61% 3.2k issues 633 (63 open, 570 closed) 2026-09-03 llama.cpp fork with additional quantization formats and CPU/CUDA performance improvements.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -743,10 +743,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-03T17:35:31Z",
-            "open_issues": 106,
+            "open_issues": 112,
             "owner": "ikawrakow",
             "repo": "ik_llama.cpp",
-            "stars": 3185,
+            "stars": 3190,
             "topics": []
           },
           "title": "ik_llama.cpp",
@@ -754,7 +754,7 @@
         },
         {
           "children": [],
-          "description": "71% 11.6k issues 1.6k (503 open, 1.1k closed) 2026-08-28 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+          "description": "67% 11.6k issues 1.6k (506 open, 1.1k closed) 2026-08-28 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -763,11 +763,11 @@
             "id": 614637892,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T10:18:26Z",
-            "open_issues": 509,
+            "last_commit": "2026-09-07T16:00:53Z",
+            "open_issues": 510,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11622,
+            "stars": 11628,
             "topics": [
               "gemma",
               "ggml",
@@ -786,7 +786,7 @@
         },
         {
           "children": [],
-          "description": "75% 19.3k issues 1.3k (464 open, 835 closed) 2026-08-28 A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
+          "description": "73% 19.5k issues 1.3k (465 open, 836 closed) 2026-09-01 A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -795,11 +795,11 @@
             "id": 833984877,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T08:19:28Z",
-            "open_issues": 507,
+            "last_commit": "2026-09-07T12:20:05Z",
+            "open_issues": 508,
             "owner": "kvcache-ai",
             "repo": "ktransformers",
-            "stars": 19468,
+            "stars": 19478,
             "topics": []
           },
           "title": "KTransformers",
@@ -807,7 +807,7 @@
         },
         {
           "children": [],
-          "description": "66% 5.5k issues 1.4k (406 open, 1.0k closed) 2026-08-30 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
+          "description": "65% 5.6k issues 1.4k (402 open, 1.0k closed) 2026-09-02 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -816,11 +816,11 @@
             "id": 984341155,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:41:45Z",
-            "open_issues": 549,
+            "last_commit": "2026-09-07T07:08:31Z",
+            "open_issues": 552,
             "owner": "lemonade-sdk",
             "repo": "lemonade",
-            "stars": 5636,
+            "stars": 5649,
             "topics": [
               "ai",
               "amd",
@@ -848,7 +848,7 @@
         },
         {
           "children": [],
-          "description": "91% 126.4k issues 9.8k (864 open, 8.9k closed) 2026-08-31 LLM inference in C/C++",
+          "description": "91% 127.3k issues 9.9k (902 open, 9.0k closed) 2026-09-07 LLM inference in C/C++",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -857,11 +857,11 @@
             "id": 612354784,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:43:58Z",
-            "open_issues": 2433,
+            "last_commit": "2026-09-07T17:54:13Z",
+            "open_issues": 2458,
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 127241,
+            "stars": 127383,
             "topics": [
               "ggml"
             ]
@@ -871,7 +871,7 @@
         },
         {
           "children": [],
-          "description": "69% 7.6k issues 712 (233 open, 479 closed) 2026-08-30 Blazingly fast LLM inference.",
+          "description": "69% 7.7k issues 715 (235 open, 480 closed) 2026-09-06 Blazingly fast LLM inference.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -880,11 +880,11 @@
             "id": 763774926,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:06:41Z",
-            "open_issues": 370,
+            "last_commit": "2026-09-06T20:01:45Z",
+            "open_issues": 369,
             "owner": "EricLBuehler",
             "repo": "mistral.rs",
-            "stars": 7659,
+            "stars": 7660,
             "topics": [
               "llm",
               "rust",
@@ -896,7 +896,7 @@
         },
         {
           "children": [],
-          "description": "68% 6.8k issues 577 (159 open, 418 closed) 2026-08-29 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
+          "description": "68% 6.9k issues 585 (163 open, 422 closed) 2026-09-05 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -905,11 +905,11 @@
             "id": 946767878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:23:48Z",
-            "open_issues": 261,
+            "last_commit": "2026-09-07T11:38:02Z",
+            "open_issues": 262,
             "owner": "ml-explore",
             "repo": "mlx-lm",
-            "stars": 6905,
+            "stars": 6918,
             "topics": [
               "llms",
               "mlx"
@@ -920,7 +920,7 @@
         },
         {
           "children": [],
-          "description": "79% 29.4k issues 3.7k (811 open, 2.9k closed) 2026-08-30 MAX is a platform from Modular (creators of Mojo) for running LLMs.",
+          "description": "80% 29.6k issues 3.8k (827 open, 2.9k closed) 2026-09-07 MAX is a platform from Modular (creators of Mojo) for running LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -929,11 +929,11 @@
             "id": 634043200,
             "language": "Mojo",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T07:18:45Z",
-            "open_issues": 1135,
+            "last_commit": "2026-09-07T06:36:06Z",
+            "open_issues": 1140,
             "owner": "modular",
             "repo": "modular",
-            "stars": 29573,
+            "stars": 29603,
             "topics": [
               "ai",
               "language",
@@ -949,7 +949,7 @@
         },
         {
           "children": [],
-          "description": "70% 9.8k issues 46 (19 open, 27 closed) 2026-08-28 Small function-calling model served through an OpenAI-compatible tool-calling API.",
+          "description": "71% 10.4k issues 46 (12 open, 34 closed) 2026-09-05 Small function-calling model served through an OpenAI-compatible tool-calling API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -962,7 +962,7 @@
             "open_issues": 29,
             "owner": "cactus-compute",
             "repo": "needle",
-            "stars": 10390,
+            "stars": 10478,
             "topics": [
               "cactus",
               "gemini",
@@ -976,7 +976,7 @@
         },
         {
           "children": [],
-          "description": "69% 8.3k issues 358 (35 open, 323 closed) 2026-08-28 Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models.",
+          "description": "68% 8.4k issues 361 (37 open, 324 closed) 2026-09-03 Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -985,11 +985,11 @@
             "id": 843570824,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T22:16:28Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-07T15:31:37Z",
+            "open_issues": 53,
             "owner": "qualcomm",
             "repo": "GenieX",
-            "stars": 8353,
+            "stars": 8354,
             "topics": [
               "gemma4",
               "go",
@@ -1013,7 +1013,7 @@
         },
         {
           "children": [],
-          "description": "92% 179.8k issues 11.1k (2.5k open, 8.7k closed) 2026-08-28 Get up and running with Llama 3.2, Mistral, Gemma 3, and other large language models.",
+          "description": "93% 180.3k issues 11.2k (2.5k open, 8.7k closed) 2026-09-05 Get up and running with Llama 3.2, Mistral, Gemma 3, and other large language models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1023,10 +1023,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-05T00:52:34Z",
-            "open_issues": 3912,
+            "open_issues": 3930,
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 180275,
+            "stars": 180399,
             "topics": [
               "deepseek",
               "gemma",
@@ -1050,7 +1050,7 @@
         },
         {
           "children": [],
-          "description": "76% 21.1k issues 1.8k (852 open, 991 closed) 2026-08-29 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
+          "description": "77% 21.5k issues 1.9k (902 open, 1.0k closed) 2026-09-06 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1060,10 +1060,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T14:23:01Z",
-            "open_issues": 1291,
+            "open_issues": 1304,
             "owner": "jundot",
             "repo": "omlx",
-            "stars": 21464,
+            "stars": 21505,
             "topics": [
               "apple-silicon",
               "inference-server",
@@ -1120,7 +1120,7 @@
         },
         {
           "children": [],
-          "description": "81% 33.0k issues 7.2k (822 open, 6.4k closed) 2026-08-31 SGLang is a fast serving framework for large language models and vision language models.",
+          "description": "81% 35.6k issues 7.3k (845 open, 6.5k closed) 2026-09-07 SGLang is a fast serving framework for large language models and vision language models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1129,11 +1129,11 @@
             "id": 740303686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:38:47Z",
-            "open_issues": 5144,
+            "last_commit": "2026-09-07T17:47:03Z",
+            "open_issues": 5147,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 35527,
+            "stars": 35597,
             "topics": [
               "attention",
               "blackwell",
@@ -1160,7 +1160,7 @@
         },
         {
           "children": [],
-          "description": "23% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
+          "description": "21% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1173,7 +1173,7 @@
             "open_issues": 145,
             "owner": "speaches-ai",
             "repo": "speaches",
-            "stars": 3647,
+            "stars": 3651,
             "topics": [
               "docker",
               "docker-compose",
@@ -1191,7 +1191,7 @@
         },
         {
           "children": [],
-          "description": "74% 13.0k issues 187 (78 open, 109 closed) 2026-09-01 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
+          "description": "70% 13.0k issues 187 (78 open, 109 closed) 2026-09-01 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1204,7 +1204,7 @@
             "open_issues": 98,
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 13066,
+            "stars": 13082,
             "topics": [
               "ai",
               "assistant",
@@ -1222,7 +1222,7 @@
         },
         {
           "children": [],
-          "description": "54% 1.3k issues 242 (17 open, 225 closed) 2026-08-26 An OAI compatible exllamav2 API that's both lightweight and fast",
+          "description": "56% 1.4k issues 243 (18 open, 225 closed) 2026-09-07 An OAI compatible exllamav2 API that's both lightweight and fast",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1231,11 +1231,11 @@
             "id": 716906582,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T23:12:25Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-07T16:14:06Z",
+            "open_issues": 32,
             "owner": "theroyallab",
             "repo": "tabbyAPI",
-            "stars": 1362,
+            "stars": 1365,
             "topics": []
           },
           "title": "TabbyAPI",
@@ -1243,7 +1243,7 @@
         },
         {
           "children": [],
-          "description": "49% 5.0k issues 451 (159 open, 292 closed) 2026-07-24 High-performance embedding, reranking and sequence classification server from Hugging Face.",
+          "description": "47% 5.0k issues 451 (159 open, 292 closed) 2026-07-24 High-performance embedding, reranking and sequence classification server from Hugging Face.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1252,11 +1252,11 @@
             "id": 704543233,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-24T13:47:50Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-07T10:14:02Z",
+            "open_issues": 209,
             "owner": "huggingface",
             "repo": "text-embeddings-inference",
-            "stars": 5041,
+            "stars": 5043,
             "topics": [
               "ai",
               "embeddings",
@@ -1270,7 +1270,7 @@
         },
         {
           "children": [],
-          "description": "21% 10.9k issues 1.6k (285 open, 1.3k closed) 2026-03-21 Inference engine from HuggingFace.",
+          "description": "20% 10.9k issues 1.6k (285 open, 1.3k closed) 2026-03-21 Inference engine from HuggingFace.",
           "node_type": "item",
           "repo_info": {
             "archived": true,
@@ -1301,7 +1301,7 @@
         },
         {
           "children": [],
-          "description": "89% 90.5k issues 17.7k (2.2k open, 15.5k closed) 2026-08-31 A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "description": "89% 91.1k issues 18.0k (2.4k open, 15.6k closed) 2026-09-07 A high-throughput and memory-efficient inference and serving engine for LLMs",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1310,11 +1310,11 @@
             "id": 599547518,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:08:13Z",
-            "open_issues": 7648,
+            "last_commit": "2026-09-07T16:21:56Z",
+            "open_issues": 7721,
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 91082,
+            "stars": 91176,
             "topics": [
               "amd",
               "blackwell",
@@ -1349,7 +1349,7 @@
       "items": [
         {
           "children": [],
-          "description": "78% 24.1k issues 3.1k (409 open, 2.7k closed) 2026-08-31 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
+          "description": "78% 24.3k issues 3.1k (417 open, 2.7k closed) 2026-09-06 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1358,11 +1358,11 @@
             "id": 573661753,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:31:22Z",
-            "open_issues": 537,
+            "last_commit": "2026-09-07T17:55:22Z",
+            "open_issues": 539,
             "owner": "activepieces",
             "repo": "activepieces",
-            "stars": 24297,
+            "stars": 24314,
             "topics": [
               "ai-agent",
               "ai-agent-tools",
@@ -1384,7 +1384,7 @@
         },
         {
           "children": [],
-          "description": "74% 19.0k issues 840 (66 open, 774 closed) 2026-08-27 General-purpose personal assistant with Web RAG, persistent memory, tools, browser use and more.",
+          "description": "70% 19.1k issues 843 (65 open, 778 closed) 2026-08-27 General-purpose personal assistant with Web RAG, persistent memory, tools, browser use and more.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1393,11 +1393,11 @@
             "id": 812975380,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:34:01Z",
-            "open_issues": 146,
+            "last_commit": "2026-09-07T13:14:03Z",
+            "open_issues": 148,
             "owner": "agent0ai",
             "repo": "agent-zero",
-            "stars": 19103,
+            "stars": 19116,
             "topics": [
               "agent",
               "ai",
@@ -1412,7 +1412,7 @@
         },
         {
           "children": [],
-          "description": "17% 10.4k issues 663 (50 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
+          "description": "16% 10.4k issues 663 (50 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1448,7 +1448,7 @@
         },
         {
           "children": [],
-          "description": "39% 48.6k issues 4.4k (1.4k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
+          "description": "37% 48.8k issues 4.4k (1.4k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1458,10 +1458,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
-            "open_issues": 1853,
+            "open_issues": 1855,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48788,
+            "stars": 48813,
             "topics": [
               "anthropic",
               "chatgpt",
@@ -1483,7 +1483,7 @@
         },
         {
           "children": [],
-          "description": "35% 6.6k issues 114 (30 open, 84 closed) 2026-06-05 Airweave lets agents search any app by transforming its contents into agent-ready knowledge.",
+          "description": "33% 6.6k issues 114 (30 open, 84 closed) 2026-06-05 Airweave lets agents search any app by transforming its contents into agent-ready knowledge.",
           "node_type": "item",
           "repo_info": {
             "archived": true,
@@ -1496,7 +1496,7 @@
             "open_issues": 108,
             "owner": "airweave-ai",
             "repo": "airweave",
-            "stars": 6566,
+            "stars": 6565,
             "topics": [
               "agent-infrastructure",
               "ai",
@@ -1525,7 +1525,7 @@
         },
         {
           "children": [],
-          "description": "82% 39.8k issues 6.5k (1.1k open, 5.5k closed) 2026-08-31 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
+          "description": "82% 40.1k issues 6.5k (1.1k open, 5.5k closed) 2026-09-07 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1534,11 +1534,11 @@
             "id": 575865240,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T12:03:13Z",
-            "open_issues": 1483,
+            "last_commit": "2026-09-07T16:39:27Z",
+            "open_issues": 1477,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 40089,
+            "stars": 40165,
             "topics": [
               "agent",
               "ai",
@@ -1564,7 +1564,7 @@
         },
         {
           "children": [],
-          "description": "93% 187.0k issues 3.9k (295 open, 3.7k closed) 2026-08-29 Create, deploy, and manage continuous AI agents that automate complex workflows.",
+          "description": "92% 187.2k issues 4.0k (305 open, 3.7k closed) 2026-09-04 Create, deploy, and manage continuous AI agents that automate complex workflows.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1573,11 +1573,11 @@
             "id": 614765452,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:48:59Z",
-            "open_issues": 579,
+            "last_commit": "2026-09-07T17:52:49Z",
+            "open_issues": 595,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 187166,
+            "stars": 187182,
             "topics": [
               "agentic-ai",
               "agents",
@@ -1597,7 +1597,7 @@
         },
         {
           "children": [],
-          "description": "78% 24.9k issues 1.3k (237 open, 1.1k closed) 2026-08-30 Lightweight server monitoring with historical data, docker stats, and alerts.",
+          "description": "78% 25.1k issues 1.3k (240 open, 1.1k closed) 2026-09-06 Lightweight server monitoring with historical data, docker stats, and alerts.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1606,11 +1606,11 @@
             "id": 825470378,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:34:03Z",
-            "open_issues": 297,
+            "last_commit": "2026-09-07T17:13:09Z",
+            "open_issues": 298,
             "owner": "henrygd",
             "repo": "beszel",
-            "stars": 25120,
+            "stars": 25167,
             "topics": [
               "homelab",
               "monitoring",
@@ -1622,7 +1622,7 @@
         },
         {
           "children": [],
-          "description": "69% 7.7k issues 1.2k (446 open, 776 closed) 2026-08-30 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
+          "description": "70% 7.8k issues 1.3k (461 open, 794 closed) 2026-09-07 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1631,11 +1631,11 @@
             "id": 951115072,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T14:51:20Z",
-            "open_issues": 978,
+            "last_commit": "2026-09-07T17:52:03Z",
+            "open_issues": 983,
             "owner": "maximhq",
             "repo": "bifrost",
-            "stars": 7836,
+            "stars": 7863,
             "topics": [
               "ai-gateway",
               "gateway",
@@ -1660,7 +1660,7 @@
         },
         {
           "children": [],
-          "description": "16% 19.8k issues 963 (81 open, 882 closed) 2026-02-07 Prompt, run, edit, and deploy full-stack web applications.",
+          "description": "15% 19.9k issues 964 (83 open, 881 closed) 2026-02-07 Prompt, run, edit, and deploy full-stack web applications.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1673,7 +1673,7 @@
             "open_issues": 138,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19852,
+            "stars": 19853,
             "topics": []
           },
           "title": "Bolt.new",
@@ -1681,7 +1681,7 @@
         },
         {
           "children": [],
-          "description": "33% 16.3k issues 444 (272 open, 172 closed) 2026-05-15 AI-powered browser automation with web UI",
+          "description": "31% 16.3k issues 444 (272 open, 172 closed) 2026-05-15 AI-powered browser automation with web UI",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1694,7 +1694,7 @@
             "open_issues": 324,
             "owner": "browser-use",
             "repo": "web-ui",
-            "stars": 16317,
+            "stars": 16316,
             "topics": [
               "ai-agent",
               "browser-automation",
@@ -1707,7 +1707,7 @@
         },
         {
           "children": [],
-          "description": "73% 15.4k issues 1.3k (488 open, 861 closed) 2026-08-28 A helper service allowing to expose Harbor services over the internet.",
+          "description": "73% 15.5k issues 1.4k (488 open, 862 closed) 2026-09-03 A helper service allowing to expose Harbor services over the internet.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1717,10 +1717,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T22:25:03Z",
-            "open_issues": 537,
+            "open_issues": 538,
             "owner": "cloudflare",
             "repo": "cloudflared",
-            "stars": 15527,
+            "stars": 15539,
             "topics": [
               "cloudflare",
               "cloudflare-tunnel",
@@ -1759,7 +1759,7 @@
         },
         {
           "children": [],
-          "description": "76% 30.4k issues 1.1k (222 open, 842 closed) 2026-08-24 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
+          "description": "80% 30.5k issues 1.1k (210 open, 861 closed) 2026-09-06 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1768,11 +1768,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:35:24Z",
-            "open_issues": 482,
+            "last_commit": "2026-09-07T07:33:34Z",
+            "open_issues": 489,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30515,
+            "stars": 30562,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -1800,7 +1800,7 @@
         },
         {
           "children": [],
-          "description": "52% 71.8k issues 1.3k (322 open, 933 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
+          "description": "49% 71.8k issues 1.3k (322 open, 933 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1810,10 +1810,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-24T07:12:07Z",
-            "open_issues": 455,
+            "open_issues": 454,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71780,
+            "stars": 71768,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -1830,7 +1830,7 @@
         },
         {
           "children": [],
-          "description": "59% 3.4k issues 169 (2 open, 167 closed) 2026-08-21 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
+          "description": "61% 3.5k issues 171 (1 open, 170 closed) 2026-09-02 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1843,7 +1843,7 @@
             "open_issues": 1,
             "owner": "bytebase",
             "repo": "dbhub",
-            "stars": 3468,
+            "stars": 3469,
             "topics": [
               "agents",
               "ai",
@@ -1872,7 +1872,7 @@
         },
         {
           "children": [],
-          "description": "87% 81.2k issues 1.9k (513 open, 1.4k closed) 2026-08-30 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
+          "description": "87% 81.7k issues 2.0k (513 open, 1.4k closed) 2026-09-06 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1881,11 +1881,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T14:54:33Z",
-            "open_issues": 886,
+            "last_commit": "2026-09-07T10:43:01Z",
+            "open_issues": 899,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 81532,
+            "stars": 81763,
             "topics": [
               "agent",
               "agentic",
@@ -1912,7 +1912,7 @@
         },
         {
           "children": [],
-          "description": "93% 153.9k issues 18.8k (319 open, 18.5k closed) 2026-08-31 An open-source LLM app development platform.",
+          "description": "93% 154.7k issues 18.9k (346 open, 18.5k closed) 2026-09-07 An open-source LLM app development platform.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1921,11 +1921,11 @@
             "id": 626805178,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:26:54Z",
-            "open_issues": 1060,
+            "last_commit": "2026-09-07T16:30:07Z",
+            "open_issues": 1050,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 154615,
+            "stars": 154746,
             "topics": [
               "agent",
               "agentic-ai",
@@ -1953,7 +1953,7 @@
         },
         {
           "children": [],
-          "description": "84% 65.8k issues 2.0k (906 open, 1.1k closed) 2026-08-28 Transform documents into format ready for LLMs.",
+          "description": "84% 66.1k issues 2.0k (799 open, 1.2k closed) 2026-09-04 Transform documents into format ready for LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1962,11 +1962,11 @@
             "id": 826168160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:26:30Z",
-            "open_issues": 895,
+            "last_commit": "2026-09-07T16:10:42Z",
+            "open_issues": 896,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 66057,
+            "stars": 66116,
             "topics": [
               "ai",
               "convert",
@@ -1990,7 +1990,7 @@
         },
         {
           "children": [],
-          "description": "76% 35.5k issues 334 (145 open, 189 closed) 2026-08-22 AI-powered diagram creation tool - generate draw.io diagrams from natural language.",
+          "description": "78% 35.7k issues 334 (145 open, 189 closed) 2026-09-01 AI-powered diagram creation tool - generate draw.io diagrams from natural language.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1999,11 +1999,11 @@
             "id": 953521037,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T13:29:29Z",
+            "last_commit": "2026-09-07T17:56:08Z",
             "open_issues": 189,
             "owner": "DayuanJiang",
             "repo": "next-ai-draw-io",
-            "stars": 35646,
+            "stars": 35677,
             "topics": [
               "ai",
               "diagrams",
@@ -2015,7 +2015,7 @@
         },
         {
           "children": [],
-          "description": "82% 43.6k issues 863 (32 open, 831 closed) 2026-08-29 LLM-driven processing of the text data in the terminal.",
+          "description": "81% 43.9k issues 865 (32 open, 833 closed) 2026-09-03 LLM-driven processing of the text data in the terminal.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2028,7 +2028,7 @@
             "open_issues": 70,
             "owner": "danielmiessler",
             "repo": "Fabric",
-            "stars": 43842,
+            "stars": 43866,
             "topics": [
               "ai",
               "augmentation",
@@ -2042,7 +2042,7 @@
         },
         {
           "children": [],
-          "description": "21% 200 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
+          "description": "20% 200 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2078,7 +2078,7 @@
         },
         {
           "children": [],
-          "description": "74% 55.4k issues 2.7k (699 open, 2.0k closed) 2026-08-13 Drag & drop UI to build your customized LLM flow.",
+          "description": "70% 55.4k issues 2.7k (699 open, 2.0k closed) 2026-08-13 Drag & drop UI to build your customized LLM flow.",
           "node_type": "item",
           "repo_info": {
             "archived": true,
@@ -2117,7 +2117,7 @@
         },
         {
           "children": [],
-          "description": "65% 4.4k issues 624 (7 open, 617 closed) 2026-08-31 A simple CLI tool to interact with LLMs.",
+          "description": "65% 4.4k issues 632 (10 open, 622 closed) 2026-09-06 A simple CLI tool to interact with LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2126,11 +2126,11 @@
             "id": 618514446,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T06:47:47Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-07T17:56:32Z",
+            "open_issues": 21,
             "owner": "gptme",
             "repo": "gptme",
-            "stars": 4411,
+            "stars": 4410,
             "topics": [
               "agent",
               "agents",
@@ -2155,7 +2155,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2164,7 +2164,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -2196,7 +2196,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2205,7 +2205,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -2237,7 +2237,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Containerized Harbor CLI for running Harbor commands without a host install.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Containerized Harbor CLI for running Harbor commands without a host install.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2246,7 +2246,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -2278,7 +2278,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own landing page served locally.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own landing page served locally.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2287,7 +2287,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -2319,7 +2319,7 @@
         },
         {
           "children": [],
-          "description": "96% 238.6k issues 25.0k (12.9k open, 12.2k closed) 2026-08-31 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
+          "description": "96% 242.7k issues 26.4k (13.6k open, 12.8k closed) 2026-09-07 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2328,11 +2328,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:31:49Z",
-            "open_issues": 40266,
+            "last_commit": "2026-09-07T17:54:40Z",
+            "open_issues": 40493,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 242346,
+            "stars": 242975,
             "topics": [
               "ai",
               "ai-agent",
@@ -2354,7 +2354,7 @@
         },
         {
           "children": [],
-          "description": "89% 90.2k issues 73.6k (2.6k open, 71.1k closed) 2026-08-31 Open source home automation platform for managing and controlling smart home devices.",
+          "description": "89% 90.3k issues 73.8k (2.6k open, 71.2k closed) 2026-09-07 Open source home automation platform for managing and controlling smart home devices.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2363,11 +2363,11 @@
             "id": 12888993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:18:31Z",
-            "open_issues": 3494,
+            "last_commit": "2026-09-07T17:56:20Z",
+            "open_issues": 3498,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 90283,
+            "stars": 90307,
             "topics": [
               "asyncio",
               "hacktoberfest",
@@ -2384,7 +2384,7 @@
         },
         {
           "children": [],
-          "description": "73% 15.3k issues 9.3k (2.4k open, 6.9k closed) 2026-08-28 Helper service to author/run Jupyter notebooks in Python with access to Harbor services.",
+          "description": "73% 15.3k issues 9.3k (2.4k open, 6.9k closed) 2026-09-04 Helper service to author/run Jupyter notebooks in Python with access to Harbor services.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2393,11 +2393,11 @@
             "id": 60374819,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T14:04:31Z",
-            "open_issues": 2612,
+            "last_commit": "2026-09-07T11:39:37Z",
+            "open_issues": 2611,
             "owner": "jupyterlab",
             "repo": "jupyterlab",
-            "stars": 15282,
+            "stars": 15289,
             "topics": [
               "jupyter",
               "jupyterlab"
@@ -2408,7 +2408,7 @@
         },
         {
           "children": [],
-          "description": "80% 31.4k issues 2.7k (710 open, 2.0k closed) 2026-08-31 A modern load testing tool, using Go and JavaScript - https://k6.io",
+          "description": "77% 31.4k issues 2.7k (713 open, 2.0k closed) 2026-09-02 A modern load testing tool, using Go and JavaScript - https://k6.io",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2417,11 +2417,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T11:10:27Z",
-            "open_issues": 814,
+            "last_commit": "2026-09-07T00:05:00Z",
+            "open_issues": 816,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31398,
+            "stars": 31409,
             "topics": [
               "es6",
               "go",
@@ -2439,7 +2439,7 @@
         },
         {
           "children": [],
-          "description": "80% 28.7k issues 1.7k (608 open, 1.1k closed) 2026-08-31 Self-hosted bookmark manager with AI-powered automatic tagging via OpenAI or Ollama.",
+          "description": "76% 28.9k issues 1.7k (611 open, 1.1k closed) 2026-08-31 Self-hosted bookmark manager with AI-powered automatic tagging via OpenAI or Ollama.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2449,10 +2449,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-31T22:52:10Z",
-            "open_issues": 708,
+            "open_issues": 707,
             "owner": "karakeep-app",
             "repo": "karakeep",
-            "stars": 28861,
+            "stars": 28883,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -2468,7 +2468,7 @@
         },
         {
           "children": [],
-          "description": "65% 36.8k issues 608 (102 open, 506 closed) 2026-08-02 AI second brain for chat, search, and agents with your docs. Supports local and cloud LLMs.",
+          "description": "62% 37.2k issues 608 (102 open, 506 closed) 2026-08-02 AI second brain for chat, search, and agents with your docs. Supports local and cloud LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2481,7 +2481,7 @@
             "open_issues": 146,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 37151,
+            "stars": 37178,
             "topics": [
               "agent",
               "ai",
@@ -2510,7 +2510,7 @@
         },
         {
           "children": [],
-          "description": "71% 11.6k issues 1.6k (503 open, 1.1k closed) 2026-08-28 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
+          "description": "67% 11.6k issues 1.6k (506 open, 1.1k closed) 2026-08-28 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2519,11 +2519,11 @@
             "id": 614637892,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T10:18:26Z",
-            "open_issues": 509,
+            "last_commit": "2026-09-07T16:00:53Z",
+            "open_issues": 510,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11622,
+            "stars": 11628,
             "topics": [
               "gemma",
               "ggml",
@@ -2542,7 +2542,7 @@
         },
         {
           "children": [],
-          "description": "39% 25.7k issues 471 (213 open, 258 closed) 2026-05-30 An open-source RAG-based tool for chatting with your documents.",
+          "description": "37% 25.7k issues 472 (214 open, 258 closed) 2026-05-30 An open-source RAG-based tool for chatting with your documents.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2552,10 +2552,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-14T16:53:59Z",
-            "open_issues": 246,
+            "open_issues": 247,
             "owner": "Cinnamon",
             "repo": "kotaemon",
-            "stars": 25731,
+            "stars": 25734,
             "topics": [
               "chatbot",
               "llms",
@@ -2568,7 +2568,7 @@
         },
         {
           "children": [],
-          "description": "89% 153.9k issues 3.4k (231 open, 3.2k closed) 2026-08-25 A low-code app builder for RAG and multi-agent AI applications.",
+          "description": "89% 154.4k issues 3.5k (238 open, 3.2k closed) 2026-09-01 A low-code app builder for RAG and multi-agent AI applications.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2577,11 +2577,11 @@
             "id": 599320067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:43:24Z",
-            "open_issues": 1057,
+            "last_commit": "2026-09-07T17:54:02Z",
+            "open_issues": 1061,
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 154323,
+            "stars": 154393,
             "topics": [
               "agents",
               "chatgpt",
@@ -2596,7 +2596,7 @@
         },
         {
           "children": [],
-          "description": "80% 34.0k issues 2.9k (293 open, 2.6k closed) 2026-08-30 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
+          "description": "79% 34.3k issues 2.9k (302 open, 2.6k closed) 2026-09-04 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2605,11 +2605,11 @@
             "id": 642497346,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T02:39:11Z",
-            "open_issues": 911,
+            "last_commit": "2026-09-07T17:34:08Z",
+            "open_issues": 915,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 34255,
+            "stars": 34299,
             "topics": [
               "analytics",
               "autogen",
@@ -2637,7 +2637,7 @@
         },
         {
           "children": [],
-          "description": "35% 792 issues 79 (17 open, 62 closed) 2026-07-12 A new kind of workflow + tool for visualizing and exploring datasets through the lens of latent spaces.",
+          "description": "33% 792 issues 79 (17 open, 62 closed) 2026-07-12 A new kind of workflow + tool for visualizing and exploring datasets through the lens of latent spaces.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2658,7 +2658,7 @@
         },
         {
           "children": [],
-          "description": "71% 16.2k issues 598 (124 open, 474 closed) 2026-08-23 A free and open-source machine translation.",
+          "description": "73% 16.3k issues 599 (125 open, 474 closed) 2026-09-03 A free and open-source machine translation.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2671,7 +2671,7 @@
             "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16305,
+            "stars": 16314,
             "topics": [
               "api",
               "machine",
@@ -2685,7 +2685,7 @@
         },
         {
           "children": [],
-          "description": "82% 39.3k issues 1.5k (193 open, 1.4k closed) 2026-08-30 Graph-based RAG server with a web UI, document ingestion and an Ollama-compatible query API.",
+          "description": "82% 39.4k issues 1.6k (195 open, 1.4k closed) 2026-09-07 Graph-based RAG server with a web UI, document ingestion and an Ollama-compatible query API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2694,11 +2694,11 @@
             "id": 866513204,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:47:55Z",
+            "last_commit": "2026-09-07T17:44:10Z",
             "open_issues": 231,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39435,
+            "stars": 39463,
             "topics": [
               "docling",
               "genai",
@@ -2718,7 +2718,7 @@
         },
         {
           "children": [],
-          "description": "75% 19.6k issues 1.1k (623 open, 454 closed) 2026-08-28 Self-hosted collaborative bookmark manager with archiving and AI-powered tagging.",
+          "description": "73% 19.7k issues 1.1k (626 open, 454 closed) 2026-08-31 Self-hosted collaborative bookmark manager with archiving and AI-powered tagging.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2731,7 +2731,7 @@
             "open_issues": 661,
             "owner": "linkwarden",
             "repo": "linkwarden",
-            "stars": 19695,
+            "stars": 19707,
             "topics": [
               "bookmark",
               "bookmark-manager",
@@ -2748,7 +2748,7 @@
         },
         {
           "children": [],
-          "description": "85% 57.6k issues 12.4k (1.6k open, 10.8k closed) 2026-08-30 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
+          "description": "85% 58.2k issues 12.6k (1.6k open, 10.9k closed) 2026-09-06 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2757,11 +2757,11 @@
             "id": 671269505,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:43:01Z",
-            "open_issues": 4921,
+            "last_commit": "2026-09-07T17:57:10Z",
+            "open_issues": 4953,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 58150,
+            "stars": 58223,
             "topics": [
               "ai-gateway",
               "anthropic",
@@ -2811,7 +2811,7 @@
         },
         {
           "children": [],
-          "description": "66% 5.5k issues 491 (51 open, 440 closed) 2026-08-30 Runs multiple llama.cpp servers on demand for seamless switching between them.",
+          "description": "67% 5.6k issues 504 (55 open, 449 closed) 2026-09-07 Runs multiple llama.cpp servers on demand for seamless switching between them.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2820,11 +2820,11 @@
             "id": 867433720,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-06T07:04:37Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-07T07:15:57Z",
+            "open_issues": 83,
             "owner": "mostlygeek",
             "repo": "llama-swap",
-            "stars": 5586,
+            "stars": 5599,
             "topics": [
               "golang",
               "llama",
@@ -2841,7 +2841,7 @@
         },
         {
           "children": [],
-          "description": "73% 13.8k issues 1.7k (579 open, 1.1k closed) 2026-08-29 A de-facto standard framework for the few-shot evaluation of language models.",
+          "description": "71% 13.9k issues 1.7k (582 open, 1.1k closed) 2026-09-01 A de-facto standard framework for the few-shot evaluation of language models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2851,10 +2851,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T13:51:29Z",
-            "open_issues": 939,
+            "open_issues": 951,
             "owner": "EleutherAI",
             "repo": "lm-evaluation-harness",
-            "stars": 13902,
+            "stars": 13920,
             "topics": [
               "evaluation-framework",
               "language-model",
@@ -2866,7 +2866,7 @@
         },
         {
           "children": [],
-          "description": "69% 9.0k issues 943 (504 open, 439 closed) 2026-08-28 Transforms complex questions into comprehensive, cited reports.",
+          "description": "70% 9.1k issues 1.1k (643 open, 467 closed) 2026-09-06 Transforms complex questions into comprehensive, cited reports.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2875,11 +2875,11 @@
             "id": 929868765,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:49:25Z",
-            "open_issues": 807,
+            "last_commit": "2026-09-07T17:53:19Z",
+            "open_issues": 833,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9046,
+            "stars": 9052,
             "topics": [
               "academia",
               "anthropic",
@@ -2908,7 +2908,7 @@
         },
         {
           "children": [],
-          "description": "83% 48.8k issues 1.6k (88 open, 1.5k closed) 2026-08-30 Complete AI stack for running AI models locally. Allows downloading variety of LLMs, TTS/STT/Image models and running them locally via Web UI.",
+          "description": "84% 48.9k issues 1.6k (95 open, 1.5k closed) 2026-09-07 Complete AI stack for running AI models locally. Allows downloading variety of LLMs, TTS/STT/Image models and running them locally via Web UI.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2917,11 +2917,11 @@
             "id": 615869301,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-06T10:45:56Z",
-            "open_issues": 175,
+            "last_commit": "2026-09-07T17:53:27Z",
+            "open_issues": 179,
             "owner": "mudler",
             "repo": "LocalAI",
-            "stars": 48920,
+            "stars": 48960,
             "topics": [
               "agents",
               "ai",
@@ -2948,7 +2948,7 @@
         },
         {
           "children": [],
-          "description": "64% 4.4k issues 3.2k (907 open, 2.3k closed) 2026-08-28 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
+          "description": "64% 4.4k issues 3.3k (735 open, 2.6k closed) 2026-09-04 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2957,11 +2957,11 @@
             "id": 979886407,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T09:04:06Z",
-            "open_issues": 902,
+            "last_commit": "2026-09-07T17:51:23Z",
+            "open_issues": 904,
             "owner": "IBM",
             "repo": "mcp-context-forge",
-            "stars": 4426,
+            "stars": 4431,
             "topics": [
               "agents",
               "ai",
@@ -2990,7 +2990,7 @@
         },
         {
           "children": [],
-          "description": "16% 4.4k issues 137 (39 open, 98 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
+          "description": "15% 4.4k issues 137 (40 open, 97 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3003,7 +3003,7 @@
             "open_issues": 54,
             "owner": "open-webui",
             "repo": "mcpo",
-            "stars": 4363,
+            "stars": 4364,
             "topics": [
               "mcp",
               "mcp-server",
@@ -3017,7 +3017,7 @@
         },
         {
           "children": [],
-          "description": "36% 2.6k issues 201 (93 open, 108 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
+          "description": "34% 2.6k issues 202 (94 open, 108 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3027,10 +3027,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-22T16:50:50Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2648,
+            "stars": 2650,
             "topics": [
               "mcp",
               "mcp-gateway",
@@ -3054,7 +3054,7 @@
         },
         {
           "children": [],
-          "description": "23% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
+          "description": "21% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3088,7 +3088,7 @@
         },
         {
           "children": [],
-          "description": "76% 39.7k issues 4.4k (2 open, 4.4k closed) 2026-08-21 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
+          "description": "72% 39.7k issues 4.4k (2 open, 4.4k closed) 2026-08-21 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3098,10 +3098,10 @@
             "language": "Makefile",
             "license": "MIT",
             "last_commit": "2026-09-04T13:26:56Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39701,
+            "stars": 39706,
             "topics": [
               "agents",
               "ai",
@@ -3125,7 +3125,7 @@
         },
         {
           "children": [],
-          "description": "41% 10.8k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
+          "description": "39% 10.8k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3146,7 +3146,7 @@
         },
         {
           "children": [],
-          "description": "70% 9.1k issues 292 (56 open, 236 closed) 2026-08-29 An AI-powered search engine with a generative UI, similar to Perplexity and Perplexica.",
+          "description": "70% 9.1k issues 294 (55 open, 239 closed) 2026-09-06 An AI-powered search engine with a generative UI, similar to Perplexity and Perplexica.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3159,7 +3159,7 @@
             "open_issues": 55,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9091,
+            "stars": 9094,
             "topics": [
               "generative-ai",
               "generative-ui",
@@ -3180,7 +3180,7 @@
         },
         {
           "children": [],
-          "description": "95% 202.9k issues 10.2k (356 open, 9.8k closed) 2026-08-31 Fair-code workflow automation platform with native AI capabilities.",
+          "description": "95% 203.6k issues 10.2k (382 open, 9.9k closed) 2026-09-07 Fair-code workflow automation platform with native AI capabilities.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3189,11 +3189,11 @@
             "id": 193215554,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T14:37:37Z",
-            "open_issues": 1170,
+            "last_commit": "2026-09-07T17:57:07Z",
+            "open_issues": 1144,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 203527,
+            "stars": 203647,
             "topics": [
               "ai",
               "apis",
@@ -3222,7 +3222,7 @@
         },
         {
           "children": [],
-          "description": "84% 47.6k issues 1.5k (209 open, 1.3k closed) 2026-08-31 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
+          "description": "84% 47.8k issues 1.5k (207 open, 1.3k closed) 2026-09-07 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3231,11 +3231,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:08:05Z",
-            "open_issues": 770,
+            "last_commit": "2026-09-07T10:28:36Z",
+            "open_issues": 771,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47749,
+            "stars": 47845,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -3264,7 +3264,7 @@
         },
         {
           "children": [],
-          "description": "88% 80.4k issues 8.3k (193 open, 8.1k closed) 2026-08-31 Real-time infrastructure monitoring with per-second metrics for systems, containers, and applications.",
+          "description": "88% 80.4k issues 8.3k (193 open, 8.1k closed) 2026-09-07 Real-time infrastructure monitoring with per-second metrics for systems, containers, and applications.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3273,11 +3273,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T15:25:25Z",
-            "open_issues": 404,
+            "last_commit": "2026-09-07T17:01:02Z",
+            "open_issues": 398,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80440,
+            "stars": 80455,
             "topics": [
               "ai",
               "alerting",
@@ -3306,7 +3306,7 @@
         },
         {
           "children": [],
-          "description": "47% 472 issues 38 (8 open, 30 closed) 2026-08-30 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+          "description": "47% 478 issues 38 (8 open, 30 closed) 2026-09-04 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3319,7 +3319,7 @@
             "open_issues": 8,
             "owner": "NPC-Worldwide",
             "repo": "npcsh",
-            "stars": 476,
+            "stars": 478,
             "topics": []
           },
           "title": "npcsh",
@@ -3327,7 +3327,7 @@
         },
         {
           "children": [],
-          "description": "57% 25.3k issues 243 (173 open, 70 closed) 2026-07-20 A simple screen parsing tool towards pure vision based GUI agent.",
+          "description": "54% 25.4k issues 243 (173 open, 70 closed) 2026-07-20 A simple screen parsing tool towards pure vision based GUI agent.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3340,7 +3340,7 @@
             "open_issues": 230,
             "owner": "microsoft",
             "repo": "OmniParser",
-            "stars": 25373,
+            "stars": 25376,
             "topics": []
           },
           "title": "OmniParser",
@@ -3348,7 +3348,7 @@
         },
         {
           "children": [],
-          "description": "89% 92.9k issues 1.9k (475 open, 1.4k closed) 2026-08-31 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
+          "description": "88% 94.5k issues 1.9k (480 open, 1.4k closed) 2026-09-06 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3357,11 +3357,11 @@
             "id": 1223170290,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:33:23Z",
-            "open_issues": 952,
+            "last_commit": "2026-09-07T17:49:45Z",
+            "open_issues": 976,
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 94410,
+            "stars": 94641,
             "topics": [
               "agent-skills",
               "ai-design",
@@ -3390,7 +3390,7 @@
         },
         {
           "children": [],
-          "description": "79% 68.2k issues 1.1k (4 open, 1.1k closed) 2026-08-20 A natural language interface for computers.",
+          "description": "86% 68.3k issues 1.1k (0 open, 1.1k closed) 2026-09-06 A natural language interface for computers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3399,11 +3399,11 @@
             "id": 666299222,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T06:12:33Z",
+            "last_commit": "2026-09-07T09:06:53Z",
             "open_issues": 1,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68249,
+            "stars": 68265,
             "topics": [
               "acp",
               "coding-agent",
@@ -3418,7 +3418,7 @@
         },
         {
           "children": [],
-          "description": "65% 38.0k issues 580 (109 open, 471 closed) 2026-08-01 AI-powered research and note-taking platform with multi-provider LLM support, podcast generation, and content analysis.",
+          "description": "81% 38.3k issues 587 (98 open, 489 closed) 2026-09-05 AI-powered research and note-taking platform with multi-provider LLM support, podcast generation, and content analysis.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3427,11 +3427,11 @@
             "id": 876286167,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T20:01:21Z",
+            "last_commit": "2026-09-06T21:44:44Z",
             "open_issues": 115,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 38288,
+            "stars": 38360,
             "topics": [
               "assistant",
               "learning",
@@ -3446,7 +3446,7 @@
         },
         {
           "children": [],
-          "description": "60% 3.0k issues 99 (29 open, 70 closed) 2026-08-27 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
+          "description": "62% 3.1k issues 99 (29 open, 70 closed) 2026-09-06 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3455,11 +3455,11 @@
             "id": 1154879377,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T23:28:32Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-06T21:36:02Z",
+            "open_issues": 50,
             "owner": "open-webui",
             "repo": "open-terminal",
-            "stars": 3072,
+            "stars": 3080,
             "topics": [
               "agentic-ai",
               "ai",
@@ -3496,7 +3496,7 @@
         },
         {
           "children": [],
-          "description": "100% 388.1k issues 49.8k (3.6k open, 46.2k closed) 2026-08-31 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
+          "description": "100% 389.1k issues 51.6k (3.9k open, 47.7k closed) 2026-09-07 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3505,11 +3505,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:49:37Z",
-            "open_issues": 6225,
+            "last_commit": "2026-09-07T17:56:56Z",
+            "open_issues": 6323,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 389024,
+            "stars": 389116,
             "topics": [
               "ai",
               "assistant",
@@ -3525,7 +3525,7 @@
         },
         {
           "children": [],
-          "description": "95% 202.7k issues 25.3k (4.1k open, 21.2k closed) 2026-08-31 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
+          "description": "95% 205.4k issues 25.9k (4.2k open, 21.7k closed) 2026-09-07 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3534,11 +3534,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:48:36Z",
-            "open_issues": 5740,
+            "last_commit": "2026-09-07T17:52:50Z",
+            "open_issues": 5750,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 205043,
+            "stars": 205639,
             "topics": []
           },
           "title": "OpenCode",
@@ -3546,7 +3546,7 @@
         },
         {
           "children": [],
-          "description": "32% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
+          "description": "31% 18.2k issues 735 (75 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3556,7 +3556,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-02T08:13:12Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "RightNow-AI",
             "repo": "openfang",
             "stars": 18164,
@@ -3576,7 +3576,7 @@
         },
         {
           "children": [],
-          "description": "88% 85.7k issues 4.7k (344 open, 4.3k closed) 2026-08-30 A platform for software development agents powered by AI.",
+          "description": "87% 86.4k issues 4.7k (363 open, 4.3k closed) 2026-09-05 A platform for software development agents powered by AI.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3585,11 +3585,11 @@
             "id": 771302083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:36:13Z",
-            "open_issues": 666,
+            "last_commit": "2026-09-07T09:25:27Z",
+            "open_issues": 676,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 86345,
+            "stars": 86459,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -3607,7 +3607,7 @@
         },
         {
           "children": [],
-          "description": "46% 4.3k issues 101 (19 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
+          "description": "44% 4.3k issues 101 (19 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3649,7 +3649,7 @@
         },
         {
           "children": [],
-          "description": "45% 2.7k issues 291 (141 open, 150 closed) 2026-07-21 LLM companion for Paperless-ngx: suggests titles, tags and correspondents, and does LLM-based OCR.",
+          "description": "42% 2.7k issues 295 (145 open, 150 closed) 2026-07-21 LLM companion for Paperless-ngx: suggests titles, tags and correspondents, and does LLM-based OCR.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3658,11 +3658,11 @@
             "id": 861746639,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T22:27:48Z",
+            "last_commit": "2026-09-07T17:39:55Z",
             "open_issues": 188,
             "owner": "icereed",
             "repo": "paperless-gpt",
-            "stars": 2666,
+            "stars": 2669,
             "topics": [
               "ai",
               "chatgpt",
@@ -3679,7 +3679,7 @@
         },
         {
           "children": [],
-          "description": "83% 44.7k issues 2.7k (1 open, 2.7k closed) 2026-08-30 Document management system that scans, indexes and archives your documents with OCR.",
+          "description": "83% 44.9k issues 2.7k (1 open, 2.7k closed) 2026-09-06 Document management system that scans, indexes and archives your documents with OCR.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3688,11 +3688,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T15:14:49Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-07T15:51:31Z",
+            "open_issues": 21,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44891,
+            "stars": 44914,
             "topics": [
               "ai",
               "angular",
@@ -3713,7 +3713,7 @@
         },
         {
           "children": [],
-          "description": "27% 36.6k issues 676 (231 open, 445 closed) 2026-04-11 An AI-powered search engine (project evolved into Vane). Open source alternative to Perplexity AI.",
+          "description": "78% 36.7k issues 678 (232 open, 446 closed) 2026-09-01 An AI-powered search engine (project evolved into Vane). Open source alternative to Perplexity AI.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3723,10 +3723,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T14:12:12Z",
-            "open_issues": 350,
+            "open_issues": 351,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36650,
+            "stars": 36667,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -3749,7 +3749,7 @@
         },
         {
           "children": [],
-          "description": "82% 40.1k issues 2.6k (440 open, 2.2k closed) 2026-08-31 AI-powered photo management app with face recognition, image classification, and automatic organization.",
+          "description": "82% 40.2k issues 2.6k (440 open, 2.2k closed) 2026-09-06 AI-powered photo management app with face recognition, image classification, and automatic organization.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3758,11 +3758,11 @@
             "id": 119160553,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T11:10:13Z",
-            "open_issues": 467,
+            "last_commit": "2026-09-07T12:16:23Z",
+            "open_issues": 468,
             "owner": "photoprism",
             "repo": "photoprism",
-            "stars": 40152,
+            "stars": 40158,
             "topics": [
               "ai",
               "golang",
@@ -3792,7 +3792,7 @@
             "open_issues": 62,
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15621,
+            "stars": 15626,
             "topics": [
               "ai",
               "ai-agents",
@@ -3817,7 +3817,7 @@
         },
         {
           "children": [],
-          "description": "81% 35.3k issues 796 (150 open, 646 closed) 2026-08-30 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
+          "description": "79% 35.5k issues 805 (154 open, 651 closed) 2026-09-03 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3826,11 +3826,11 @@
             "id": 664013991,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T09:21:42Z",
-            "open_issues": 274,
+            "last_commit": "2026-09-07T11:36:37Z",
+            "open_issues": 279,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 35509,
+            "stars": 35560,
             "topics": [
               "nextjs",
               "open-source",
@@ -3847,7 +3847,7 @@
         },
         {
           "children": [],
-          "description": "72% 9.9k issues 305 (33 open, 272 closed) 2026-08-31 Open-source AI presentation generator with custom layouts, multi-model support, and PDF/PPTX export.",
+          "description": "70% 10.1k issues 310 (37 open, 273 closed) 2026-09-04 Open-source AI presentation generator with custom layouts, multi-model support, and PDF/PPTX export.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3856,11 +3856,11 @@
             "id": 981177285,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:38:34Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-07T11:52:52Z",
+            "open_issues": 47,
             "owner": "presenton",
             "repo": "presenton",
-            "stars": 10044,
+            "stars": 10071,
             "topics": [
               "ai-agent",
               "ai-presentation",
@@ -3877,7 +3877,7 @@
         },
         {
           "children": [],
-          "description": "78% 24.7k issues 1.3k (120 open, 1.2k closed) 2026-08-30 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
+          "description": "79% 24.9k issues 1.3k (123 open, 1.2k closed) 2026-09-07 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3886,11 +3886,11 @@
             "id": 633927609,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:33:36Z",
-            "open_issues": 587,
+            "last_commit": "2026-09-07T17:54:54Z",
+            "open_issues": 632,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24860,
+            "stars": 24901,
             "topics": [
               "ci",
               "ci-cd",
@@ -3917,7 +3917,7 @@
         },
         {
           "children": [],
-          "description": "66% 34.3k issues 2.0k (481 open, 1.5k closed) 2026-08-04 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine.",
+          "description": "79% 34.4k issues 2.0k (485 open, 1.5k closed) 2026-09-03 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3926,11 +3926,11 @@
             "id": 268163609,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T17:34:22Z",
-            "open_issues": 706,
+            "last_commit": "2026-09-07T17:21:05Z",
+            "open_issues": 705,
             "owner": "qdrant",
             "repo": "qdrant",
-            "stars": 34408,
+            "stars": 34420,
             "topics": [
               "ai-search",
               "ai-search-engine",
@@ -3959,7 +3959,7 @@
         },
         {
           "children": [],
-          "description": "49% 1.2k issues 41 (12 open, 29 closed) 2026-08-17 Python toolkit for Retrieval-Augmented Generation (RAG)",
+          "description": "47% 1.2k issues 42 (13 open, 29 closed) 2026-08-17 Python toolkit for Retrieval-Augmented Generation (RAG)",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3969,7 +3969,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-08-17T07:19:07Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "superlinear-ai",
             "repo": "raglite",
             "stars": 1200,
@@ -3999,7 +3999,7 @@
         },
         {
           "children": [],
-          "description": "79% 28.1k issues 261 (103 open, 158 closed) 2026-08-30 A powerful tool that packs your entire repository into a single, AI-friendly file.",
+          "description": "78% 28.2k issues 261 (103 open, 158 closed) 2026-09-05 A powerful tool that packs your entire repository into a single, AI-friendly file.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4008,11 +4008,11 @@
             "id": 828119367,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T06:14:09Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-07T12:57:42Z",
+            "open_issues": 139,
             "owner": "yamadashy",
             "repo": "repomix",
-            "stars": 28219,
+            "stars": 28231,
             "topics": [
               "ai",
               "anthropic",
@@ -4041,7 +4041,7 @@
         },
         {
           "children": [],
-          "description": "62% 28.3k issues 252 (23 open, 229 closed) 2026-07-30 AI-powered tool for comparing resumes against job descriptions using local LLMs via Ollama.",
+          "description": "79% 28.3k issues 297 (22 open, 275 closed) 2026-09-06 AI-powered tool for comparing resumes against job descriptions using local LLMs via Ollama.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4054,7 +4054,7 @@
             "open_issues": 60,
             "owner": "srbhr",
             "repo": "Resume-Matcher",
-            "stars": 28335,
+            "stars": 28342,
             "topics": [
               "applicant-tracking-system",
               "ats",
@@ -4077,7 +4077,7 @@
         },
         {
           "children": [],
-          "description": "32% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
+          "description": "30% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4086,11 +4086,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T11:50:06Z",
+            "last_commit": "2026-09-07T13:48:06Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1433,
+            "stars": 1437,
             "topics": [
               "mcp",
               "mcp-server",
@@ -4106,7 +4106,7 @@
         },
         {
           "children": [],
-          "description": "80% 36.3k issues 1.7k (178 open, 1.5k closed) 2026-08-29 A privacy-respecting, hackable metasearch engine. Highly configurable and can be used for Web RAG use-cases.",
+          "description": "80% 36.6k issues 1.7k (173 open, 1.5k closed) 2026-09-05 A privacy-respecting, hackable metasearch engine. Highly configurable and can be used for Web RAG use-cases.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4115,11 +4115,11 @@
             "id": 357241735,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T21:00:09Z",
-            "open_issues": 213,
+            "last_commit": "2026-09-07T11:21:23Z",
+            "open_issues": 214,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 36594,
+            "stars": 36632,
             "topics": [
               "bing",
               "brave",
@@ -4143,7 +4143,7 @@
         },
         {
           "children": [],
-          "description": "79% 29.5k issues 474 (119 open, 355 closed) 2026-08-29 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
+          "description": "79% 29.6k issues 481 (118 open, 363 closed) 2026-09-06 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4152,11 +4152,11 @@
             "id": 912559512,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:13:55Z",
-            "open_issues": 326,
+            "last_commit": "2026-09-07T17:55:39Z",
+            "open_issues": 327,
             "owner": "simstudioai",
             "repo": "sim",
-            "stars": 29558,
+            "stars": 29568,
             "topics": [
               "agent-workflow",
               "agentic-workflow",
@@ -4183,7 +4183,7 @@
         },
         {
           "children": [],
-          "description": "15% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
+          "description": "14% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4217,7 +4217,7 @@
         },
         {
           "children": [],
-          "description": "24% 5.8k issues 83 (22 open, 61 closed) 2026-04-21 Chat-based SQL client, which uses natural language to communicate with the database.",
+          "description": "23% 5.8k issues 83 (22 open, 61 closed) 2026-04-21 Chat-based SQL client, which uses natural language to communicate with the database.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4230,7 +4230,7 @@
             "open_issues": 24,
             "owner": "sqlchat",
             "repo": "sqlchat",
-            "stars": 5845,
+            "stars": 5843,
             "topics": [
               "chatgpt",
               "clickhouse",
@@ -4259,7 +4259,7 @@
         },
         {
           "children": [],
-          "description": "5% 2.8k issues 88 (44 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
+          "description": "5% 2.8k issues 89 (45 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4272,7 +4272,7 @@
             "open_issues": 71,
             "owner": "supercorp-ai",
             "repo": "supergateway",
-            "stars": 2832,
+            "stars": 2835,
             "topics": []
           },
           "title": "SuperGateway",
@@ -4280,7 +4280,7 @@
         },
         {
           "children": [],
-          "description": "74% 16.0k issues 465 (120 open, 345 closed) 2026-08-29 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
+          "description": "70% 16.1k issues 469 (124 open, 345 closed) 2026-08-29 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4289,11 +4289,11 @@
             "id": 835975784,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T00:10:08Z",
+            "last_commit": "2026-09-07T17:05:29Z",
             "open_issues": 126,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16100,
+            "stars": 16103,
             "topics": [
               "agent",
               "agents",
@@ -4329,7 +4329,7 @@
             "open_issues": 66,
             "owner": "zou-group",
             "repo": "textgrad",
-            "stars": 3716,
+            "stars": 3717,
             "topics": [
               "ai-optimization",
               "compound-systems",
@@ -4343,7 +4343,7 @@
         },
         {
           "children": [],
-          "description": "67% 5.2k issues 349 (62 open, 287 closed) 2026-08-31 Monitor AI token usage and costs across coding assistants.",
+          "description": "67% 5.3k issues 364 (63 open, 301 closed) 2026-09-07 Monitor AI token usage and costs across coding assistants.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4352,11 +4352,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:38:27Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-07T06:34:09Z",
+            "open_issues": 63,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5318,
+            "stars": 5343,
             "topics": [
               "ai",
               "ai-agents",
@@ -4385,7 +4385,7 @@
         },
         {
           "children": [],
-          "description": "84% 64.7k issues 6.8k (682 open, 6.2k closed) 2026-08-28 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
+          "description": "84% 64.8k issues 6.9k (682 open, 6.2k closed) 2026-09-04 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4394,11 +4394,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T13:20:07Z",
-            "open_issues": 906,
+            "last_commit": "2026-09-07T12:54:06Z",
+            "open_issues": 917,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64758,
+            "stars": 64777,
             "topics": [
               "consul",
               "docker",
@@ -4421,7 +4421,7 @@
         },
         {
           "children": [],
-          "description": "24% 463 issues 32 (2 open, 30 closed) 2026-06-05 RAG WebUI built with txtai.",
+          "description": "23% 464 issues 32 (2 open, 30 closed) 2026-06-05 RAG WebUI built with txtai.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4454,7 +4454,7 @@
         },
         {
           "children": [],
-          "description": "87% 75.3k issues 4.4k (962 open, 3.4k closed) 2026-08-31 Jupyter Lab environment with Unsloth for fast LLM fine-tuning - 2x faster training with 70% less memory.",
+          "description": "87% 75.7k issues 4.4k (898 open, 3.5k closed) 2026-09-07 Jupyter Lab environment with Unsloth for fast LLM fine-tuning - 2x faster training with 70% less memory.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4463,11 +4463,11 @@
             "id": 725205304,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:49:28Z",
-            "open_issues": 1342,
+            "last_commit": "2026-09-07T17:42:20Z",
+            "open_issues": 1352,
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 75712,
+            "stars": 75761,
             "topics": [
               "agent",
               "ai",
@@ -4496,7 +4496,7 @@
         },
         {
           "children": [],
-          "description": "87% 75.3k issues 4.4k (962 open, 3.4k closed) 2026-08-31 No-code web UI for fine-tuning LLMs with Unsloth. 2x faster training and 70% less memory, powered by llama.cpp + Hugging Face.",
+          "description": "87% 75.7k issues 4.4k (898 open, 3.5k closed) 2026-09-07 No-code web UI for fine-tuning LLMs with Unsloth. 2x faster training and 70% less memory, powered by llama.cpp + Hugging Face.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4505,11 +4505,11 @@
             "id": 725205304,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:49:28Z",
-            "open_issues": 1342,
+            "last_commit": "2026-09-07T17:42:20Z",
+            "open_issues": 1352,
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 75712,
+            "stars": 75761,
             "topics": [
               "agent",
               "ai",
@@ -4538,7 +4538,7 @@
         },
         {
           "children": [],
-          "description": "62% 4.4k issues 162 (5 open, 157 closed) 2026-08-25 Linux in a web browser supporting popular desktop environments.",
+          "description": "59% 4.4k issues 162 (5 open, 157 closed) 2026-08-25 Linux in a web browser supporting popular desktop environments.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4580,7 +4580,7 @@
             "open_issues": 108,
             "owner": "pluja",
             "repo": "whishper",
-            "stars": 3067,
+            "stars": 3068,
             "topics": [
               "ai",
               "audio-to-text",
@@ -4603,7 +4603,7 @@
         },
         {
           "children": [],
-          "description": "75% 17.7k issues 1.6k (564 open, 1.0k closed) 2026-08-30 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
+          "description": "75% 17.8k issues 1.6k (564 open, 1.0k closed) 2026-09-06 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4612,11 +4612,11 @@
             "id": 488804911,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:29:59Z",
-            "open_issues": 851,
+            "last_commit": "2026-09-07T17:52:37Z",
+            "open_issues": 848,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17787,
+            "stars": 17803,
             "topics": [
               "low-code",
               "open-source",
@@ -4638,7 +4638,7 @@
       "items": [
         {
           "children": [],
-          "description": "78% 24.1k issues 3.1k (409 open, 2.7k closed) 2026-08-31 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
+          "description": "78% 24.3k issues 3.1k (417 open, 2.7k closed) 2026-09-06 Open-source workflow automation platform with AI capabilities and 200+ app connectors.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4647,11 +4647,11 @@
             "id": 573661753,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:31:22Z",
-            "open_issues": 537,
+            "last_commit": "2026-09-07T17:55:22Z",
+            "open_issues": 539,
             "owner": "activepieces",
             "repo": "activepieces",
-            "stars": 24297,
+            "stars": 24314,
             "topics": [
               "ai-agent",
               "ai-agent-tools",
@@ -4673,7 +4673,7 @@
         },
         {
           "children": [],
-          "description": "92% 130.8k issues 9.2k (4.2k open, 5.1k closed) 2026-08-31 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "description": "92% 131.8k issues 9.3k (4.2k open, 5.1k closed) 2026-09-07 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4682,11 +4682,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T01:56:02Z",
-            "open_issues": 4825,
+            "last_commit": "2026-09-07T17:10:32Z",
+            "open_issues": 4818,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 131744,
+            "stars": 131925,
             "topics": [
               "ai",
               "comfy",
@@ -4701,7 +4701,7 @@
         },
         {
           "children": [],
-          "description": "87% 81.2k issues 1.9k (513 open, 1.4k closed) 2026-08-30 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
+          "description": "87% 81.7k issues 2.0k (513 open, 1.4k closed) 2026-09-06 Community-driven deep research framework combining LLMs with web search, crawling, and multi-agent workflows for comprehensive research reports.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4710,11 +4710,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T14:54:33Z",
-            "open_issues": 886,
+            "last_commit": "2026-09-07T10:43:01Z",
+            "open_issues": 899,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 81532,
+            "stars": 81763,
             "topics": [
               "agent",
               "agentic",
@@ -4741,7 +4741,7 @@
         },
         {
           "children": [],
-          "description": "93% 153.9k issues 18.8k (319 open, 18.5k closed) 2026-08-31 An open-source LLM app development platform.",
+          "description": "93% 154.7k issues 18.9k (346 open, 18.5k closed) 2026-09-07 An open-source LLM app development platform.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4750,11 +4750,11 @@
             "id": 626805178,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:26:54Z",
-            "open_issues": 1060,
+            "last_commit": "2026-09-07T16:30:07Z",
+            "open_issues": 1050,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 154615,
+            "stars": 154746,
             "topics": [
               "agent",
               "agentic-ai",
@@ -4782,7 +4782,7 @@
         },
         {
           "children": [],
-          "description": "74% 55.4k issues 2.7k (699 open, 2.0k closed) 2026-08-13 Drag & drop UI to build your customized LLM flow.",
+          "description": "70% 55.4k issues 2.7k (699 open, 2.0k closed) 2026-08-13 Drag & drop UI to build your customized LLM flow.",
           "node_type": "item",
           "repo_info": {
             "archived": true,
@@ -4821,7 +4821,7 @@
         },
         {
           "children": [],
-          "description": "89% 153.9k issues 3.4k (231 open, 3.2k closed) 2026-08-25 A low-code app builder for RAG and multi-agent AI applications.",
+          "description": "89% 154.4k issues 3.5k (238 open, 3.2k closed) 2026-09-01 A low-code app builder for RAG and multi-agent AI applications.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4830,11 +4830,11 @@
             "id": 599320067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:43:24Z",
-            "open_issues": 1057,
+            "last_commit": "2026-09-07T17:54:02Z",
+            "open_issues": 1061,
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 154323,
+            "stars": 154393,
             "topics": [
               "agents",
               "chatgpt",
@@ -4874,7 +4874,7 @@
         },
         {
           "children": [],
-          "description": "95% 202.9k issues 10.2k (356 open, 9.8k closed) 2026-08-31 Fair-code workflow automation platform with native AI capabilities.",
+          "description": "95% 203.6k issues 10.2k (382 open, 9.9k closed) 2026-09-07 Fair-code workflow automation platform with native AI capabilities.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4883,11 +4883,11 @@
             "id": 193215554,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T14:37:37Z",
-            "open_issues": 1170,
+            "last_commit": "2026-09-07T17:57:07Z",
+            "open_issues": 1144,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 203527,
+            "stars": 203647,
             "topics": [
               "ai",
               "apis",
@@ -4916,7 +4916,7 @@
         },
         {
           "children": [],
-          "description": "79% 31.9k issues 1.4k (125 open, 1.2k closed) 2026-08-29 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
+          "description": "79% 32.0k issues 1.4k (127 open, 1.2k closed) 2026-09-04 Open Source AI Platform with Chat UI, RAG, MCP support, and 40+ document connectors.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4925,11 +4925,11 @@
             "id": 633262635,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T11:41:38Z",
-            "open_issues": 439,
+            "last_commit": "2026-09-07T13:37:03Z",
+            "open_issues": 444,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 31944,
+            "stars": 31962,
             "topics": [
               "ai",
               "ai-chat",
@@ -4975,7 +4975,7 @@
         },
         {
           "children": [],
-          "description": "79% 29.5k issues 474 (119 open, 355 closed) 2026-08-29 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
+          "description": "79% 29.6k issues 481 (118 open, 363 closed) 2026-09-06 Open-source platform to build and deploy AI agent workflows with visual canvas editor.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -4984,11 +4984,11 @@
             "id": 912559512,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:13:55Z",
-            "open_issues": 326,
+            "last_commit": "2026-09-07T17:55:39Z",
+            "open_issues": 327,
             "owner": "simstudioai",
             "repo": "sim",
-            "stars": 29558,
+            "stars": 29568,
             "topics": [
               "agent-workflow",
               "agentic-workflow",
@@ -5015,7 +5015,7 @@
         },
         {
           "children": [],
-          "description": "74% 16.0k issues 465 (120 open, 345 closed) 2026-08-29 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
+          "description": "70% 16.1k issues 469 (124 open, 345 closed) 2026-08-29 Private NotebookLM-style research workspace with RAG, citations, browser capture, reports, and podcast generation.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5024,11 +5024,11 @@
             "id": 835975784,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T00:10:08Z",
+            "last_commit": "2026-09-07T17:05:29Z",
             "open_issues": 126,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16100,
+            "stars": 16103,
             "topics": [
               "agent",
               "agents",
@@ -5051,7 +5051,7 @@
         },
         {
           "children": [],
-          "description": "75% 17.7k issues 1.6k (564 open, 1.0k closed) 2026-08-30 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
+          "description": "75% 17.8k issues 1.6k (564 open, 1.0k closed) 2026-09-06 Open-source developer platform for internal tools, workflows, and UIs with multi-language script support.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5060,11 +5060,11 @@
             "id": 488804911,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:29:59Z",
-            "open_issues": 851,
+            "last_commit": "2026-09-07T17:52:37Z",
+            "open_issues": 848,
             "owner": "windmill-labs",
             "repo": "windmill",
-            "stars": 17787,
+            "stars": 17803,
             "topics": [
               "low-code",
               "open-source",
@@ -5086,7 +5086,7 @@
       "items": [
         {
           "children": [],
-          "description": "69% 7.7k issues 1.2k (446 open, 776 closed) 2026-08-30 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
+          "description": "70% 7.8k issues 1.3k (461 open, 794 closed) 2026-09-07 Fast OpenAI-compatible AI gateway with provider routing, failover, observability, and Harbor backend bootstrapping.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5095,11 +5095,11 @@
             "id": 951115072,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T14:51:20Z",
-            "open_issues": 978,
+            "last_commit": "2026-09-07T17:52:03Z",
+            "open_issues": 983,
             "owner": "maximhq",
             "repo": "bifrost",
-            "stars": 7836,
+            "stars": 7863,
             "topics": [
               "ai-gateway",
               "gateway",
@@ -5124,7 +5124,7 @@
         },
         {
           "children": [],
-          "description": "73% 15.4k issues 1.3k (488 open, 861 closed) 2026-08-28 A helper service allowing to expose Harbor services over the internet.",
+          "description": "73% 15.5k issues 1.4k (488 open, 862 closed) 2026-09-03 A helper service allowing to expose Harbor services over the internet.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5134,10 +5134,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T22:25:03Z",
-            "open_issues": 537,
+            "open_issues": 538,
             "owner": "cloudflare",
             "repo": "cloudflared",
-            "stars": 15527,
+            "stars": 15539,
             "topics": [
               "cloudflare",
               "cloudflare-tunnel",
@@ -5150,7 +5150,7 @@
         },
         {
           "children": [],
-          "description": "76% 30.4k issues 1.1k (222 open, 842 closed) 2026-08-24 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
+          "description": "80% 30.5k issues 1.1k (210 open, 861 closed) 2026-09-06 Knowledge engine for AI agent memory. Transforms documents into searchable graphs and vectors with built-in pipelines.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5159,11 +5159,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:35:24Z",
-            "open_issues": 482,
+            "last_commit": "2026-09-07T07:33:34Z",
+            "open_issues": 489,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30515,
+            "stars": 30562,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -5191,7 +5191,7 @@
         },
         {
           "children": [],
-          "description": "52% 71.8k issues 1.3k (322 open, 933 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
+          "description": "49% 71.8k issues 1.3k (322 open, 933 closed) 2026-06-25 Self-hosted sandbox platform for AI agents with Docker-in-Docker, computer use, and GPU support.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5201,10 +5201,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-24T07:12:07Z",
-            "open_issues": 455,
+            "open_issues": 454,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71780,
+            "stars": 71768,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -5221,7 +5221,7 @@
         },
         {
           "children": [],
-          "description": "59% 3.4k issues 169 (2 open, 167 closed) 2026-08-21 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
+          "description": "61% 3.5k issues 171 (1 open, 170 closed) 2026-09-02 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5234,7 +5234,7 @@
             "open_issues": 1,
             "owner": "bytebase",
             "repo": "dbhub",
-            "stars": 3468,
+            "stars": 3469,
             "topics": [
               "agents",
               "ai",
@@ -5263,7 +5263,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Connects to downstream LLM API and serves a wrapper with custom workflow. For example, it can be used to add a CoT (Chain of Thought) to an existing LLM API, and much more. Scriptable with Python.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5272,7 +5272,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -5304,7 +5304,7 @@
         },
         {
           "children": [],
-          "description": "80% 34.0k issues 2.9k (293 open, 2.6k closed) 2026-08-30 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
+          "description": "79% 34.3k issues 2.9k (302 open, 2.6k closed) 2026-09-04 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5313,11 +5313,11 @@
             "id": 642497346,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T02:39:11Z",
-            "open_issues": 911,
+            "last_commit": "2026-09-07T17:34:08Z",
+            "open_issues": 915,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 34255,
+            "stars": 34299,
             "topics": [
               "analytics",
               "autogen",
@@ -5345,7 +5345,7 @@
         },
         {
           "children": [],
-          "description": "66% 5.5k issues 1.4k (406 open, 1.0k closed) 2026-08-30 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
+          "description": "65% 5.6k issues 1.4k (402 open, 1.0k closed) 2026-09-02 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5354,11 +5354,11 @@
             "id": 984341155,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:41:45Z",
-            "open_issues": 549,
+            "last_commit": "2026-09-07T07:08:31Z",
+            "open_issues": 552,
             "owner": "lemonade-sdk",
             "repo": "lemonade",
-            "stars": 5636,
+            "stars": 5649,
             "topics": [
               "ai",
               "amd",
@@ -5386,7 +5386,7 @@
         },
         {
           "children": [],
-          "description": "82% 39.3k issues 1.5k (193 open, 1.4k closed) 2026-08-30 Graph-based RAG server with a web UI, document ingestion and an Ollama-compatible query API.",
+          "description": "82% 39.4k issues 1.6k (195 open, 1.4k closed) 2026-09-07 Graph-based RAG server with a web UI, document ingestion and an Ollama-compatible query API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5395,11 +5395,11 @@
             "id": 866513204,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:47:55Z",
+            "last_commit": "2026-09-07T17:44:10Z",
             "open_issues": 231,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39435,
+            "stars": 39463,
             "topics": [
               "docling",
               "genai",
@@ -5419,7 +5419,7 @@
         },
         {
           "children": [],
-          "description": "85% 57.6k issues 12.4k (1.6k open, 10.8k closed) 2026-08-30 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
+          "description": "85% 58.2k issues 12.6k (1.6k open, 10.9k closed) 2026-09-06 LLM proxy that can aggregate multiple inference APIs together into a single endpoint.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5428,11 +5428,11 @@
             "id": 671269505,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:43:01Z",
-            "open_issues": 4921,
+            "last_commit": "2026-09-07T17:57:10Z",
+            "open_issues": 4953,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 58150,
+            "stars": 58223,
             "topics": [
               "ai-gateway",
               "anthropic",
@@ -5457,7 +5457,7 @@
         },
         {
           "children": [],
-          "description": "66% 5.5k issues 491 (51 open, 440 closed) 2026-08-30 Runs multiple llama.cpp servers on demand for seamless switching between them.",
+          "description": "67% 5.6k issues 504 (55 open, 449 closed) 2026-09-07 Runs multiple llama.cpp servers on demand for seamless switching between them.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5466,11 +5466,11 @@
             "id": 867433720,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-06T07:04:37Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-07T07:15:57Z",
+            "open_issues": 83,
             "owner": "mostlygeek",
             "repo": "llama-swap",
-            "stars": 5586,
+            "stars": 5599,
             "topics": [
               "golang",
               "llama",
@@ -5487,7 +5487,7 @@
         },
         {
           "children": [],
-          "description": "76% 39.7k issues 4.4k (2 open, 4.4k closed) 2026-08-21 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
+          "description": "72% 39.7k issues 4.4k (2 open, 4.4k closed) 2026-08-21 AI platform for integrating ML models with data sources via HTTP and MySQL APIs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5497,10 +5497,10 @@
             "language": "Makefile",
             "license": "MIT",
             "last_commit": "2026-09-04T13:26:56Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39701,
+            "stars": 39706,
             "topics": [
               "agents",
               "ai",
@@ -5524,7 +5524,7 @@
         },
         {
           "children": [],
-          "description": "41% 10.8k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
+          "description": "39% 10.8k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5545,7 +5545,7 @@
         },
         {
           "children": [],
-          "description": "68% 6.8k issues 577 (159 open, 418 closed) 2026-08-29 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
+          "description": "68% 6.9k issues 585 (163 open, 422 closed) 2026-09-05 Host-native Apple Silicon MLX inference managed by Harbor through an OpenAI-compatible proxy.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5554,11 +5554,11 @@
             "id": 946767878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:23:48Z",
-            "open_issues": 261,
+            "last_commit": "2026-09-07T11:38:02Z",
+            "open_issues": 262,
             "owner": "ml-explore",
             "repo": "mlx-lm",
-            "stars": 6905,
+            "stars": 6918,
             "topics": [
               "llms",
               "mlx"
@@ -5569,7 +5569,7 @@
         },
         {
           "children": [],
-          "description": "70% 9.8k issues 46 (19 open, 27 closed) 2026-08-28 Small function-calling model served through an OpenAI-compatible tool-calling API.",
+          "description": "71% 10.4k issues 46 (12 open, 34 closed) 2026-09-05 Small function-calling model served through an OpenAI-compatible tool-calling API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5582,7 +5582,7 @@
             "open_issues": 29,
             "owner": "cactus-compute",
             "repo": "needle",
-            "stars": 10390,
+            "stars": 10478,
             "topics": [
               "cactus",
               "gemini",
@@ -5596,7 +5596,7 @@
         },
         {
           "children": [],
-          "description": "47% 472 issues 38 (8 open, 30 closed) 2026-08-30 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+          "description": "47% 478 issues 38 (8 open, 30 closed) 2026-09-04 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5609,7 +5609,7 @@
             "open_issues": 8,
             "owner": "NPC-Worldwide",
             "repo": "npcsh",
-            "stars": 476,
+            "stars": 478,
             "topics": []
           },
           "title": "npcsh",
@@ -5617,7 +5617,7 @@
         },
         {
           "children": [],
-          "description": "76% 21.1k issues 1.8k (852 open, 991 closed) 2026-08-29 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
+          "description": "77% 21.5k issues 1.9k (902 open, 1.0k closed) 2026-09-06 Host-native Apple Silicon oMLX inference with continuous batching, SSD KV cache, and OpenAI-compatible Harbor integrations.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5627,10 +5627,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T14:23:01Z",
-            "open_issues": 1291,
+            "open_issues": 1304,
             "owner": "jundot",
             "repo": "omlx",
-            "stars": 21464,
+            "stars": 21505,
             "topics": [
               "apple-silicon",
               "inference-server",
@@ -5645,7 +5645,7 @@
         },
         {
           "children": [],
-          "description": "60% 3.0k issues 99 (29 open, 70 closed) 2026-08-27 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
+          "description": "62% 3.1k issues 99 (29 open, 70 closed) 2026-09-06 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5654,11 +5654,11 @@
             "id": 1154879377,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T23:28:32Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-06T21:36:02Z",
+            "open_issues": 50,
             "owner": "open-webui",
             "repo": "open-terminal",
-            "stars": 3072,
+            "stars": 3080,
             "topics": [
               "agentic-ai",
               "ai",
@@ -5695,7 +5695,7 @@
         },
         {
           "children": [],
-          "description": "32% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
+          "description": "31% 18.2k issues 735 (75 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5705,7 +5705,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-02T08:13:12Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "RightNow-AI",
             "repo": "openfang",
             "stars": 18164,
@@ -5725,7 +5725,7 @@
         },
         {
           "children": [],
-          "description": "46% 4.3k issues 101 (19 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
+          "description": "44% 4.3k issues 101 (19 open, 82 closed) 2026-07-18 Optimising LLM proxy that implements many advanced workflows to boost the performance of the LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5767,7 +5767,7 @@
         },
         {
           "children": [],
-          "description": "32% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
+          "description": "30% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5776,11 +5776,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T11:50:06Z",
+            "last_commit": "2026-09-07T13:48:06Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1433,
+            "stars": 1437,
             "topics": [
               "mcp",
               "mcp-server",
@@ -5796,7 +5796,7 @@
         },
         {
           "children": [],
-          "description": "74% 13.0k issues 187 (78 open, 109 closed) 2026-09-01 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
+          "description": "70% 13.0k issues 187 (78 open, 109 closed) 2026-09-01 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5809,7 +5809,7 @@
             "open_issues": 98,
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 13066,
+            "stars": 13082,
             "topics": [
               "ai",
               "assistant",
@@ -5827,7 +5827,7 @@
         },
         {
           "children": [],
-          "description": "49% 5.0k issues 451 (159 open, 292 closed) 2026-07-24 High-performance embedding, reranking and sequence classification server from Hugging Face.",
+          "description": "47% 5.0k issues 451 (159 open, 292 closed) 2026-07-24 High-performance embedding, reranking and sequence classification server from Hugging Face.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5836,11 +5836,11 @@
             "id": 704543233,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-24T13:47:50Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-07T10:14:02Z",
+            "open_issues": 209,
             "owner": "huggingface",
             "repo": "text-embeddings-inference",
-            "stars": 5041,
+            "stars": 5043,
             "topics": [
               "ai",
               "embeddings",
@@ -5854,7 +5854,7 @@
         },
         {
           "children": [],
-          "description": "84% 64.7k issues 6.8k (682 open, 6.2k closed) 2026-08-28 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
+          "description": "84% 64.8k issues 6.9k (682 open, 6.2k closed) 2026-09-04 A modern HTTP reverse proxy and load balancer that makes deploying microservices easy.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5863,11 +5863,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T13:20:07Z",
-            "open_issues": 906,
+            "last_commit": "2026-09-07T12:54:06Z",
+            "open_issues": 917,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64758,
+            "stars": 64777,
             "topics": [
               "consul",
               "docker",
@@ -5890,7 +5890,7 @@
         },
         {
           "children": [],
-          "description": "64% 51.9k issues 695 (502 open, 193 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
+          "description": "61% 52.5k issues 700 (507 open, 193 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5900,10 +5900,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-09T00:03:42Z",
-            "open_issues": 675,
+            "open_issues": 677,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 52410,
+            "stars": 52498,
             "topics": [
               "ai",
               "cuda",
@@ -5926,7 +5926,7 @@
       "items": [
         {
           "children": [],
-          "description": "23% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
+          "description": "21% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 Legacy version of Speaches, use that instead.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5939,7 +5939,7 @@
             "open_issues": 145,
             "owner": "speaches-ai",
             "repo": "speaches",
-            "stars": 3647,
+            "stars": 3651,
             "topics": [
               "docker",
               "docker-compose",
@@ -5957,7 +5957,7 @@
         },
         {
           "children": [],
-          "description": "66% 5.5k issues 1.4k (406 open, 1.0k closed) 2026-08-30 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
+          "description": "65% 5.6k issues 1.4k (402 open, 1.0k closed) 2026-09-02 Local AI server with LLM chat, speech-to-text, text-to-speech, and image generation. Optimized for AMD hardware.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -5966,11 +5966,11 @@
             "id": 984341155,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:41:45Z",
-            "open_issues": 549,
+            "last_commit": "2026-09-07T07:08:31Z",
+            "open_issues": 552,
             "owner": "lemonade-sdk",
             "repo": "lemonade",
-            "stars": 5636,
+            "stars": 5649,
             "topics": [
               "ai",
               "amd",
@@ -6040,7 +6040,7 @@
         },
         {
           "children": [],
-          "description": "23% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
+          "description": "21% 3.6k issues 332 (108 open, 224 closed) 2026-04-18 an OpenAI API-compatible speech server (formerly ), both TTS and STT",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6053,7 +6053,7 @@
             "open_issues": 145,
             "owner": "speaches-ai",
             "repo": "speaches",
-            "stars": 3647,
+            "stars": 3651,
             "topics": [
               "docker",
               "docker-compose",
@@ -6071,7 +6071,7 @@
         },
         {
           "children": [],
-          "description": "74% 13.0k issues 187 (78 open, 109 closed) 2026-09-01 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
+          "description": "70% 13.0k issues 187 (78 open, 109 closed) 2026-09-01 Modular realtime voice pipeline (VAD, STT, LLM, TTS) exposing an OpenAI Realtime-compatible WebSocket API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6084,7 +6084,7 @@
             "open_issues": 98,
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 13066,
+            "stars": 13082,
             "topics": [
               "ai",
               "assistant",
@@ -6102,7 +6102,7 @@
         },
         {
           "children": [],
-          "description": "64% 51.9k issues 695 (502 open, 193 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
+          "description": "61% 52.5k issues 700 (507 open, 193 closed) 2026-07-27 Local-first AI voice studio for voice cloning, preset voices, speech generation, dictation, transcription, and agent speech.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6112,10 +6112,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-09T00:03:42Z",
-            "open_issues": 675,
+            "open_issues": 677,
             "owner": "jamiepine",
             "repo": "voicebox",
-            "stars": 52410,
+            "stars": 52498,
             "topics": [
               "ai",
               "cuda",
@@ -6145,7 +6145,7 @@
             "open_issues": 108,
             "owner": "pluja",
             "repo": "whishper",
-            "stars": 3067,
+            "stars": 3068,
             "topics": [
               "ai",
               "audio-to-text",
@@ -6174,7 +6174,7 @@
       "items": [
         {
           "children": [],
-          "description": "17% 10.4k issues 663 (50 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
+          "description": "16% 10.4k issues 663 (50 open, 613 closed) 2026-02-23 All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6210,7 +6210,7 @@
         },
         {
           "children": [],
-          "description": "39% 48.6k issues 4.4k (1.4k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
+          "description": "37% 48.8k issues 4.4k (1.4k open, 3.0k closed) 2026-05-22 Aider is AI pair programming in your terminal.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6220,10 +6220,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
-            "open_issues": 1853,
+            "open_issues": 1855,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48788,
+            "stars": 48813,
             "topics": [
               "anthropic",
               "chatgpt",
@@ -6245,7 +6245,7 @@
         },
         {
           "children": [],
-          "description": "73% 15.4k issues 1.3k (488 open, 861 closed) 2026-08-28 A helper service allowing to expose Harbor services over the internet.",
+          "description": "73% 15.5k issues 1.4k (488 open, 862 closed) 2026-09-03 A helper service allowing to expose Harbor services over the internet.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6255,10 +6255,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T22:25:03Z",
-            "open_issues": 537,
+            "open_issues": 538,
             "owner": "cloudflare",
             "repo": "cloudflared",
-            "stars": 15527,
+            "stars": 15539,
             "topics": [
               "cloudflare",
               "cloudflare-tunnel",
@@ -6297,7 +6297,7 @@
         },
         {
           "children": [],
-          "description": "82% 43.6k issues 863 (32 open, 831 closed) 2026-08-29 LLM-driven processing of the text data in the terminal.",
+          "description": "81% 43.9k issues 865 (32 open, 833 closed) 2026-09-03 LLM-driven processing of the text data in the terminal.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6310,7 +6310,7 @@
             "open_issues": 70,
             "owner": "danielmiessler",
             "repo": "Fabric",
-            "stars": 43842,
+            "stars": 43866,
             "topics": [
               "ai",
               "augmentation",
@@ -6324,7 +6324,7 @@
         },
         {
           "children": [],
-          "description": "21% 200 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
+          "description": "20% 200 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6360,7 +6360,7 @@
         },
         {
           "children": [],
-          "description": "65% 4.4k issues 624 (7 open, 617 closed) 2026-08-31 A simple CLI tool to interact with LLMs.",
+          "description": "65% 4.4k issues 632 (10 open, 622 closed) 2026-09-06 A simple CLI tool to interact with LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6369,11 +6369,11 @@
             "id": 618514446,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T06:47:47Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-07T17:56:32Z",
+            "open_issues": 21,
             "owner": "gptme",
             "repo": "gptme",
-            "stars": 4411,
+            "stars": 4410,
             "topics": [
               "agent",
               "agents",
@@ -6398,7 +6398,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6407,7 +6407,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -6439,7 +6439,7 @@
         },
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Containerized Harbor CLI for running Harbor commands without a host install.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Containerized Harbor CLI for running Harbor commands without a host install.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6448,7 +6448,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -6480,7 +6480,7 @@
         },
         {
           "children": [],
-          "description": "96% 238.6k issues 25.0k (12.9k open, 12.2k closed) 2026-08-31 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
+          "description": "96% 242.7k issues 26.4k (13.6k open, 12.8k closed) 2026-09-07 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6489,11 +6489,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:31:49Z",
-            "open_issues": 40266,
+            "last_commit": "2026-09-07T17:54:40Z",
+            "open_issues": 40493,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 242346,
+            "stars": 242975,
             "topics": [
               "ai",
               "ai-agent",
@@ -6515,7 +6515,7 @@
         },
         {
           "children": [],
-          "description": "80% 31.4k issues 2.7k (710 open, 2.0k closed) 2026-08-31 A modern load testing tool, using Go and JavaScript - https://k6.io",
+          "description": "77% 31.4k issues 2.7k (713 open, 2.0k closed) 2026-09-02 A modern load testing tool, using Go and JavaScript - https://k6.io",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6524,11 +6524,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T11:10:27Z",
-            "open_issues": 814,
+            "last_commit": "2026-09-07T00:05:00Z",
+            "open_issues": 816,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31398,
+            "stars": 31409,
             "topics": [
               "es6",
               "go",
@@ -6546,7 +6546,7 @@
         },
         {
           "children": [],
-          "description": "73% 13.8k issues 1.7k (579 open, 1.1k closed) 2026-08-29 A de-facto standard framework for the few-shot evaluation of language models.",
+          "description": "71% 13.9k issues 1.7k (582 open, 1.1k closed) 2026-09-01 A de-facto standard framework for the few-shot evaluation of language models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6556,10 +6556,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T13:51:29Z",
-            "open_issues": 939,
+            "open_issues": 951,
             "owner": "EleutherAI",
             "repo": "lm-evaluation-harness",
-            "stars": 13902,
+            "stars": 13920,
             "topics": [
               "evaluation-framework",
               "language-model",
@@ -6571,7 +6571,7 @@
         },
         {
           "children": [],
-          "description": "23% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
+          "description": "21% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6605,7 +6605,7 @@
         },
         {
           "children": [],
-          "description": "84% 47.6k issues 1.5k (209 open, 1.3k closed) 2026-08-31 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
+          "description": "84% 47.8k issues 1.5k (207 open, 1.3k closed) 2026-09-07 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6614,11 +6614,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:08:05Z",
-            "open_issues": 770,
+            "last_commit": "2026-09-07T10:28:36Z",
+            "open_issues": 771,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47749,
+            "stars": 47845,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -6647,7 +6647,7 @@
         },
         {
           "children": [],
-          "description": "47% 472 issues 38 (8 open, 30 closed) 2026-08-30 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+          "description": "47% 478 issues 38 (8 open, 30 closed) 2026-09-04 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6660,7 +6660,7 @@
             "open_issues": 8,
             "owner": "NPC-Worldwide",
             "repo": "npcsh",
-            "stars": 476,
+            "stars": 478,
             "topics": []
           },
           "title": "npcsh",
@@ -6668,7 +6668,7 @@
         },
         {
           "children": [],
-          "description": "79% 68.2k issues 1.1k (4 open, 1.1k closed) 2026-08-20 A natural language interface for computers.",
+          "description": "86% 68.3k issues 1.1k (0 open, 1.1k closed) 2026-09-06 A natural language interface for computers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6677,11 +6677,11 @@
             "id": 666299222,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T06:12:33Z",
+            "last_commit": "2026-09-07T09:06:53Z",
             "open_issues": 1,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68249,
+            "stars": 68265,
             "topics": [
               "acp",
               "coding-agent",
@@ -6696,7 +6696,7 @@
         },
         {
           "children": [],
-          "description": "95% 202.7k issues 25.3k (4.1k open, 21.2k closed) 2026-08-31 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
+          "description": "95% 205.4k issues 25.9k (4.2k open, 21.7k closed) 2026-09-07 AI coding assistant with server API, TUI, and IDE extensions. Supports multiple LLM providers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6705,11 +6705,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:48:36Z",
-            "open_issues": 5740,
+            "last_commit": "2026-09-07T17:52:50Z",
+            "open_issues": 5750,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 205043,
+            "stars": 205639,
             "topics": []
           },
           "title": "OpenCode",
@@ -6717,7 +6717,7 @@
         },
         {
           "children": [],
-          "description": "50% 2.4k issues 156 (4 open, 152 closed) 2026-08-06 The text-based terminal client for Ollama.",
+          "description": "58% 2.4k issues 156 (4 open, 152 closed) 2026-09-02 The text-based terminal client for Ollama.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6758,7 +6758,7 @@
             "open_issues": 62,
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15621,
+            "stars": 15626,
             "topics": [
               "ai",
               "ai-agents",
@@ -6783,7 +6783,7 @@
         },
         {
           "children": [],
-          "description": "78% 24.7k issues 1.3k (120 open, 1.2k closed) 2026-08-30 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
+          "description": "79% 24.9k issues 1.3k (123 open, 1.2k closed) 2026-09-07 Test your prompts, agents, and RAGs. A developer-friendly local tool for testing LLM applications.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6792,11 +6792,11 @@
             "id": 633927609,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:33:36Z",
-            "open_issues": 587,
+            "last_commit": "2026-09-07T17:54:54Z",
+            "open_issues": 632,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24860,
+            "stars": 24901,
             "topics": [
               "ci",
               "ci-cd",
@@ -6823,7 +6823,7 @@
         },
         {
           "children": [],
-          "description": "79% 28.1k issues 261 (103 open, 158 closed) 2026-08-30 A powerful tool that packs your entire repository into a single, AI-friendly file.",
+          "description": "78% 28.2k issues 261 (103 open, 158 closed) 2026-09-05 A powerful tool that packs your entire repository into a single, AI-friendly file.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6832,11 +6832,11 @@
             "id": 828119367,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T06:14:09Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-07T12:57:42Z",
+            "open_issues": 139,
             "owner": "yamadashy",
             "repo": "repomix",
-            "stars": 28219,
+            "stars": 28231,
             "topics": [
               "ai",
               "anthropic",
@@ -6865,7 +6865,7 @@
         },
         {
           "children": [],
-          "description": "15% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
+          "description": "14% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6899,7 +6899,7 @@
         },
         {
           "children": [],
-          "description": "5% 2.8k issues 88 (44 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
+          "description": "5% 2.8k issues 89 (45 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6912,7 +6912,7 @@
             "open_issues": 71,
             "owner": "supercorp-ai",
             "repo": "supergateway",
-            "stars": 2832,
+            "stars": 2835,
             "topics": []
           },
           "title": "SuperGateway",
@@ -6920,7 +6920,7 @@
         },
         {
           "children": [],
-          "description": "67% 5.2k issues 349 (62 open, 287 closed) 2026-08-31 Monitor AI token usage and costs across coding assistants.",
+          "description": "67% 5.3k issues 364 (63 open, 301 closed) 2026-09-07 Monitor AI token usage and costs across coding assistants.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6929,11 +6929,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:38:27Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-07T06:34:09Z",
+            "open_issues": 63,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5318,
+            "stars": 5343,
             "topics": [
               "ai",
               "ai-agents",
@@ -6968,7 +6968,7 @@
       "items": [
         {
           "children": [],
-          "description": "62% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
+          "description": "59% 3.2k issues 187 (57 open, 130 closed) 2026-08-29 Harbor's own tool to evaluate LLMs and inference backends against custom tasks.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -6977,7 +6977,7 @@
             "id": 834595923,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:30:05Z",
+            "last_commit": "2026-09-07T14:09:12Z",
             "open_issues": 66,
             "owner": "av",
             "repo": "harbor",
@@ -7009,7 +7009,7 @@
         },
         {
           "children": [],
-          "description": "73% 13.8k issues 1.7k (579 open, 1.1k closed) 2026-08-29 A de-facto standard framework for the few-shot evaluation of language models.",
+          "description": "71% 13.9k issues 1.7k (582 open, 1.1k closed) 2026-09-01 A de-facto standard framework for the few-shot evaluation of language models.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7019,10 +7019,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T13:51:29Z",
-            "open_issues": 939,
+            "open_issues": 951,
             "owner": "EleutherAI",
             "repo": "lm-evaluation-harness",
-            "stars": 13902,
+            "stars": 13920,
             "topics": [
               "evaluation-framework",
               "language-model",
@@ -7040,7 +7040,7 @@
       "items": [
         {
           "children": [],
-          "description": "82% 39.8k issues 6.5k (1.1k open, 5.5k closed) 2026-08-31 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
+          "description": "82% 40.1k issues 6.5k (1.1k open, 5.5k closed) 2026-09-07 All-in-one agentic chatbot platform for multi-LLM conversations across messaging platforms with plugin system.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7049,11 +7049,11 @@
             "id": 575865240,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T12:03:13Z",
-            "open_issues": 1483,
+            "last_commit": "2026-09-07T16:39:27Z",
+            "open_issues": 1477,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 40089,
+            "stars": 40165,
             "topics": [
               "agent",
               "ai",
@@ -7079,7 +7079,7 @@
         },
         {
           "children": [],
-          "description": "59% 3.4k issues 169 (2 open, 167 closed) 2026-08-21 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
+          "description": "61% 3.5k issues 171 (1 open, 170 closed) 2026-09-02 Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7092,7 +7092,7 @@
             "open_issues": 1,
             "owner": "bytebase",
             "repo": "dbhub",
-            "stars": 3468,
+            "stars": 3469,
             "topics": [
               "agents",
               "ai",
@@ -7121,7 +7121,7 @@
         },
         {
           "children": [],
-          "description": "21% 200 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
+          "description": "20% 200 issues 0 (0 open, 0 closed) 2026-06-03 Fact-driven development CLI for project specs that agents can verify and implement.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7157,7 +7157,7 @@
         },
         {
           "children": [],
-          "description": "96% 238.6k issues 25.0k (12.9k open, 12.2k closed) 2026-08-31 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
+          "description": "96% 242.7k issues 26.4k (13.6k open, 12.8k closed) 2026-09-07 Autonomous AI agent with persistent memory, skills, and multi-platform gateway.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7166,11 +7166,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T15:31:49Z",
-            "open_issues": 40266,
+            "last_commit": "2026-09-07T17:54:40Z",
+            "open_issues": 40493,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 242346,
+            "stars": 242975,
             "topics": [
               "ai",
               "ai-agent",
@@ -7192,7 +7192,7 @@
         },
         {
           "children": [],
-          "description": "64% 4.4k issues 3.2k (907 open, 2.3k closed) 2026-08-28 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
+          "description": "64% 4.4k issues 3.3k (735 open, 2.6k closed) 2026-09-04 Gateway and admin UI for managing Model Context Protocol (MCP) servers, tools, and resources.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7201,11 +7201,11 @@
             "id": 979886407,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T09:04:06Z",
-            "open_issues": 902,
+            "last_commit": "2026-09-07T17:51:23Z",
+            "open_issues": 904,
             "owner": "IBM",
             "repo": "mcp-context-forge",
-            "stars": 4426,
+            "stars": 4431,
             "topics": [
               "agents",
               "ai",
@@ -7234,7 +7234,7 @@
         },
         {
           "children": [],
-          "description": "16% 4.4k issues 137 (39 open, 98 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
+          "description": "15% 4.4k issues 137 (40 open, 97 closed) 2026-02-27 Turn MCP servers into OpenAPI REST APIs - use them anywhere.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7247,7 +7247,7 @@
             "open_issues": 54,
             "owner": "open-webui",
             "repo": "mcpo",
-            "stars": 4363,
+            "stars": 4364,
             "topics": [
               "mcp",
               "mcp-server",
@@ -7261,7 +7261,7 @@
         },
         {
           "children": [],
-          "description": "36% 2.6k issues 201 (93 open, 108 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
+          "description": "34% 2.6k issues 202 (94 open, 108 closed) 2026-06-22 Allows to manage MCPs via a WebUI, exposes multiple MCPs as a single server.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7271,10 +7271,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-22T16:50:50Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2648,
+            "stars": 2650,
             "topics": [
               "mcp",
               "mcp-gateway",
@@ -7298,7 +7298,7 @@
         },
         {
           "children": [],
-          "description": "23% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
+          "description": "21% 102 issues 0 (0 open, 0 closed) 2026-07-02 Minimal agentic coding CLI that runs against OpenAI-compatible local or cloud model APIs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7332,7 +7332,7 @@
         },
         {
           "children": [],
-          "description": "41% 10.8k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
+          "description": "39% 10.8k issues 56 (32 open, 24 closed) 2026-06-18 Hugging Face ML engineering agent that researches papers, trains models, and ships ML code with local or cloud LLM backends.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7353,7 +7353,7 @@
         },
         {
           "children": [],
-          "description": "84% 47.6k issues 1.5k (209 open, 1.3k closed) 2026-08-31 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
+          "description": "84% 47.8k issues 1.5k (207 open, 1.3k closed) 2026-09-07 Ultra-lightweight personal AI assistant with multi-channel messaging and scheduled tasks.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7362,11 +7362,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:08:05Z",
-            "open_issues": 770,
+            "last_commit": "2026-09-07T10:28:36Z",
+            "open_issues": 771,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47749,
+            "stars": 47845,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -7395,7 +7395,7 @@
         },
         {
           "children": [],
-          "description": "70% 9.8k issues 46 (19 open, 27 closed) 2026-08-28 Small function-calling model served through an OpenAI-compatible tool-calling API.",
+          "description": "71% 10.4k issues 46 (12 open, 34 closed) 2026-09-05 Small function-calling model served through an OpenAI-compatible tool-calling API.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7408,7 +7408,7 @@
             "open_issues": 29,
             "owner": "cactus-compute",
             "repo": "needle",
-            "stars": 10390,
+            "stars": 10478,
             "topics": [
               "cactus",
               "gemini",
@@ -7422,7 +7422,7 @@
         },
         {
           "children": [],
-          "description": "47% 472 issues 38 (8 open, 30 closed) 2026-08-30 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
+          "description": "47% 478 issues 38 (8 open, 30 closed) 2026-09-04 Agentic shell and NPC team server with OpenAI-compatible endpoints, jinxes, and local backend integrations.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7435,7 +7435,7 @@
             "open_issues": 8,
             "owner": "NPC-Worldwide",
             "repo": "npcsh",
-            "stars": 476,
+            "stars": 478,
             "topics": []
           },
           "title": "npcsh",
@@ -7443,7 +7443,7 @@
         },
         {
           "children": [],
-          "description": "89% 92.9k issues 1.9k (475 open, 1.4k closed) 2026-08-31 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
+          "description": "88% 94.5k issues 1.9k (480 open, 1.4k closed) 2026-09-06 Local-first design artifact workspace with BYOK model providers, design systems, decks, prototypes, and Harbor Ollama integration.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7452,11 +7452,11 @@
             "id": 1223170290,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:33:23Z",
-            "open_issues": 952,
+            "last_commit": "2026-09-07T17:49:45Z",
+            "open_issues": 976,
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 94410,
+            "stars": 94641,
             "topics": [
               "agent-skills",
               "ai-design",
@@ -7485,7 +7485,7 @@
         },
         {
           "children": [],
-          "description": "60% 3.0k issues 99 (29 open, 70 closed) 2026-08-27 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
+          "description": "62% 3.1k issues 99 (29 open, 70 closed) 2026-09-06 Remote terminal and file-management API for AI agents, pre-wired for Open WebUI and Harbor backends.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7494,11 +7494,11 @@
             "id": 1154879377,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T23:28:32Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-06T21:36:02Z",
+            "open_issues": 50,
             "owner": "open-webui",
             "repo": "open-terminal",
-            "stars": 3072,
+            "stars": 3080,
             "topics": [
               "agentic-ai",
               "ai",
@@ -7512,7 +7512,7 @@
         },
         {
           "children": [],
-          "description": "100% 388.1k issues 49.8k (3.6k open, 46.2k closed) 2026-08-31 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
+          "description": "100% 389.1k issues 51.6k (3.9k open, 47.7k closed) 2026-09-07 Personal AI assistant with a self-hosted gateway, Control UI, and multi-channel messaging support.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7521,11 +7521,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T15:49:37Z",
-            "open_issues": 6225,
+            "last_commit": "2026-09-07T17:56:56Z",
+            "open_issues": 6323,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 389024,
+            "stars": 389116,
             "topics": [
               "ai",
               "assistant",
@@ -7541,7 +7541,7 @@
         },
         {
           "children": [],
-          "description": "32% 18.1k issues 733 (73 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
+          "description": "31% 18.2k issues 735 (75 open, 660 closed) 2026-05-12 Rust-based Agent Operating System for running autonomous AI agents with scheduling, 40 channel adapters, and 27 LLM providers.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7551,7 +7551,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-02T08:13:12Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "RightNow-AI",
             "repo": "openfang",
             "stars": 18164,
@@ -7571,7 +7571,7 @@
         },
         {
           "children": [],
-          "description": "45% 2.7k issues 291 (141 open, 150 closed) 2026-07-21 LLM companion for Paperless-ngx: suggests titles, tags and correspondents, and does LLM-based OCR.",
+          "description": "42% 2.7k issues 295 (145 open, 150 closed) 2026-07-21 LLM companion for Paperless-ngx: suggests titles, tags and correspondents, and does LLM-based OCR.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7580,11 +7580,11 @@
             "id": 861746639,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T22:27:48Z",
+            "last_commit": "2026-09-07T17:39:55Z",
             "open_issues": 188,
             "owner": "icereed",
             "repo": "paperless-gpt",
-            "stars": 2666,
+            "stars": 2669,
             "topics": [
               "ai",
               "chatgpt",
@@ -7601,7 +7601,7 @@
         },
         {
           "children": [],
-          "description": "83% 44.7k issues 2.7k (1 open, 2.7k closed) 2026-08-30 Document management system that scans, indexes and archives your documents with OCR.",
+          "description": "83% 44.9k issues 2.7k (1 open, 2.7k closed) 2026-09-06 Document management system that scans, indexes and archives your documents with OCR.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7610,11 +7610,11 @@
             "id": 458648791,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T15:14:49Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-07T15:51:31Z",
+            "open_issues": 21,
             "owner": "paperless-ngx",
             "repo": "paperless-ngx",
-            "stars": 44891,
+            "stars": 44914,
             "topics": [
               "ai",
               "angular",
@@ -7635,7 +7635,7 @@
         },
         {
           "children": [],
-          "description": "81% 35.3k issues 796 (150 open, 646 closed) 2026-08-30 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
+          "description": "79% 35.5k issues 805 (154 open, 651 closed) 2026-09-03 AI-powered social media scheduling tool for managing posts, analytics, and team collaboration.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7644,11 +7644,11 @@
             "id": 664013991,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T09:21:42Z",
-            "open_issues": 274,
+            "last_commit": "2026-09-07T11:36:37Z",
+            "open_issues": 279,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 35509,
+            "stars": 35560,
             "topics": [
               "nextjs",
               "open-source",
@@ -7665,7 +7665,7 @@
         },
         {
           "children": [],
-          "description": "32% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
+          "description": "30% 1.4k issues 99 (22 open, 77 closed) 2026-06-18 Model Context Protocol (MCP) server for Robot Operating System (ROS). Connects LLMs to robots.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7674,11 +7674,11 @@
             "id": 964371379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T11:50:06Z",
+            "last_commit": "2026-09-07T13:48:06Z",
             "open_issues": 61,
             "owner": "robotmcp",
             "repo": "ros-mcp-server",
-            "stars": 1433,
+            "stars": 1437,
             "topics": [
               "mcp",
               "mcp-server",
@@ -7694,7 +7694,7 @@
         },
         {
           "children": [],
-          "description": "15% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
+          "description": "14% 297 issues 13 (7 open, 6 closed) 2026-04-11 Fastest way to deploy Physical AI on your edge devices. Manages model servers and supports MCP tools.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7728,7 +7728,7 @@
         },
         {
           "children": [],
-          "description": "5% 2.8k issues 88 (44 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
+          "description": "5% 2.8k issues 89 (45 open, 44 closed) 2025-10-09 A simple and powerful API gateway for LLMs.",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -7741,7 +7741,7 @@
             "open_issues": 71,
             "owner": "supercorp-ai",
             "repo": "supergateway",
-            "stars": 2832,
+            "stars": 2835,
             "topics": []
           },
           "title": "SuperGateway",
@@ -7752,7 +7752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:50:19.205Z",
+    "last_updated": "2026-09-07T17:57:12.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of self-hostable LLM services",
@@ -7760,7 +7760,7 @@
       "id": 1118373511,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-05T06:17:55Z",
+      "last_commit": "2026-09-07T06:26:06Z",
       "open_issues": 10,
       "owner": "av",
       "repo": "awesome-llm-services",
@@ -7774,7 +7774,7 @@
         "self-hosted"
       ]
     },
-    "original_repository_sha": "36fb5cee5f6313de321e4f20e1380342c91e639c",
+    "original_repository_sha": "265aa51583d9f560774b1aa2187f61878f9a7a31",
     "enhanced_repository": "enhansome/enhansome-llm-services",
     "enhanced_repository_description": null,
     "title": "Awesome llm services with stars"
